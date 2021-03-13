@@ -1,0 +1,9 @@
+# Why the "1" as favicon?
+
+In standard SQL fashion (koyu.space uses PostgreSQL) users are getting a number. This number is easier for computers and programmers to process as you don’t have to type out changable values like an e-mail adress. It just saves time hunting your software for bugs.
+
+My number in the koyu.space database is “1”. This is also why the favicon is a 1.
+
+=> img/grafik.png Screenshot of Firefox with the favicon
+
+This is pretty unspectecular for advanced computer users, but it’s just something I wanted to write down for all the people who don’t know it.
