@@ -53,7 +53,7 @@ I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 
 => gemini://chriswere.uk Chris Were
 => gemini://hexdsl.co.uk HexDSL
-=> gemini://koyu.space/pukima Pukima
-=> gemini://koyu.space/seek SEEK
+=> gemini://koyu.space/pukima/ Pukima
+=> gemini://koyu.space/SEEK/ SEEK
 => gemini://gemini.circumlunar.space/~shufei/ shufei
 => gemini://gemlog.blue/users/kettlevoid/ Kettlevoid
