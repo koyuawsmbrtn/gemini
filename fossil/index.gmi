@@ -1,0 +1,6 @@
+# koyu.space Fossil
+
+Fossil is a browser written in GTK and Vala for the GNOME desktop environment.
+
+=> https://github.com/koyuspace/fossil Source code and compilation instructions
+=> fossil.png Screenshot
