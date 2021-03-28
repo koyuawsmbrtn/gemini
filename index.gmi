@@ -58,7 +58,7 @@ I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 
 ## Capsules from friends, family or acquaintances
 
-=> gemini://chriswere.uk Chris Were
+=> gemini://gem.chriswere.uk Chris Were
 => gemini://hexdsl.co.uk HexDSL
 => gemini://koyu.space/pukima/ Pukima
 => gemini://koyu.space/SEEK/ SEEK
