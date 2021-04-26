@@ -60,6 +60,7 @@ I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 
 => gemini://gem.chriswere.uk Chris Were
 => gemini://hexdsl.co.uk HexDSL
+=> gemini://friendo.monster Friendo aka Drew
 => gemini://koyu.space/pukima/ Pukima
 => gemini://koyu.space/SEEK/ SEEK
 => gemini://gemini.circumlunar.space/~shufei/ shufei
