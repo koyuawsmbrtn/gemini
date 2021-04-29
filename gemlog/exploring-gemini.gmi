@@ -26,4 +26,4 @@ Gemini directories inside of Gemini are available at medusae.space and directory
 
 ## References
 
-=> gemini://chriswere.uk/gemserver.gmi Chris's guide on how to set up a gemini capsule
+=> gemini://gem.chriswere.uk/gemserver.gmi Chris's guide on how to set up a gemini capsule
