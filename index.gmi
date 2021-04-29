@@ -64,3 +64,4 @@ I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 => gemini://koyu.space/SEEK/ SEEK
 => gemini://gemini.circumlunar.space/~shufei/ shufei
 => gemini://gemlog.blue/users/kettlevoid/ Kettlevoid
+=> gemini://distro.tube Distrotube
