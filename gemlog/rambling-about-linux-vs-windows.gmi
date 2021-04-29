@@ -1,4 +1,16 @@
+```
+  _                     
+ | |                    
+ | | _____  _   _ _   _ 
+ | |/ / _ \| | | | | | |  koyu's personal gemini capsule
+ |   < (_) | |_| | |_| |      inside a nerd's life
+ |_|\_\___/ \__, |\__,_|      You are here: Gemlog
+             __/ |      
+            |___/       
+```
+
 # Rambling about Linux vs. Windows
+Posted on November 4, 2020 by koyu	
 
 After Effects alternative? Blender!  
 GNOME for example uses it to create their 2D info graphic animations and AFAIK you can also add effects (which After Effects is all about)

@@ -1,4 +1,16 @@
+```
+  _                     
+ | |                    
+ | | _____  _   _ _   _ 
+ | |/ / _ \| | | | | | |  koyu's personal gemini capsule
+ |   < (_) | |_| | |_| |      inside a nerd's life
+ |_|\_\___/ \__, |\__,_|      You are here: Gemlog
+             __/ |      
+            |___/       
+```
+
 # How to compile butt on Solus
+Posted on July 23, 2020 by koyu	
 
 This is a small tutorial on how I got butt (broadcast using this tool) working on Solus.
 

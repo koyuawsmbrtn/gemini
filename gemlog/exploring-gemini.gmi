@@ -1,4 +1,16 @@
+```
+  _                     
+ | |                    
+ | | _____  _   _ _   _ 
+ | |/ / _ \| | | | | | |  koyu's personal gemini capsule
+ |   < (_) | |_| | |_| |      inside a nerd's life
+ |_|\_\___/ \__, |\__,_|      You are here: Gemlog
+             __/ |      
+            |___/       
+```
+
 # Exploring Gemini
+Posted on February 5, 2021 by koyu	
 
 After a bit passing of time I thought to have a look at the Gemini network and see what it has to offer. The best way to start getting into Gemini is going to the official website of Gemini and have a look at the clients and proxies. koyu.space also offers you a little bit of space for your own gemini capsule. A capsule is just a synonym for a website, but since Gemini isn't the WWW it's called a capsule.
 

@@ -1,4 +1,16 @@
+```
+  _                     
+ | |                    
+ | | _____  _   _ _   _ 
+ | |/ / _ \| | | | | | |  koyu's personal gemini capsule
+ |   < (_) | |_| | |_| |      inside a nerd's life
+ |_|\_\___/ \__, |\__,_|      You are here: Gemlog
+             __/ |      
+            |___/       
+```
+
 # How to plan and host a Mastodon instance
+Posted on November 1, 2020 by koyu	
 
 As you might have heard I host my own Mastodon instance with a few other people. You might plan to host your own as well (and in most cases create a single-user instance). Maybe you are not okay with the server you’re currently on or you want to get into the dirty bits of hosting and maintaining a Mastodon instance. In this guide you will find recommendations on how to host your own Mastodon instance and what issues you might encounter while running it.
 

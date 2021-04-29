@@ -1,4 +1,16 @@
+```
+  _                     
+ | |                    
+ | | _____  _   _ _   _ 
+ | |/ / _ \| | | | | | |  koyu's personal gemini capsule
+ |   < (_) | |_| | |_| |      inside a nerd's life
+ |_|\_\___/ \__, |\__,_|      You are here: Gemlog
+             __/ |      
+            |___/       
+```
+
 # The power of decentralization
+Posted on January 16, 2021 by koyu	
 
 So before Signal went down we were having some great discussions in our koyu.space Signal group. Now it’s been more than 24 hours since it’s down and this thanks to this guy.
 

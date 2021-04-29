@@ -1,3 +1,14 @@
+```
+  _                     
+ | |                    
+ | | _____  _   _ _   _ 
+ | |/ / _ \| | | | | | |  koyu's personal gemini capsule
+ |   < (_) | |_| | |_| |      inside a nerd's life
+ |_|\_\___/ \__, |\__,_|       You are here: Home
+             __/ |      
+            |___/       
+```
+
 # koyu's personal gemini capsule
 
 Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located in Northern Germany establishing internet services for you and your friends.
@@ -39,6 +50,8 @@ I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 * Fediverse/E-Mail: koyu@koyu.space
 * Xbox/Twitch/Telegram: bubblineyuri
 * Matrix: @koyu:leftism.su
+
+I'm most active over on Telegram, Fediverse and via E-Mail and you can reach me best between 10 and 22 in Central European (Summer) Time. Please wait a few hours for a response as I have a lot of people messaging me. I answer every friend request on the Xbox network, but only favourite people I already met.
 
 ## Instance Recommendations
 
