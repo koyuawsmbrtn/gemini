@@ -22,8 +22,9 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 => gemini://koyu.space I host Gemini sites for other people
 => gemini://koyu.space/rockshow/ ...and also host a radio show on tilderadio
 
-## Recent posts
+## Gemlog
 
+=> gemini://koyu.space/web/gemlog/why-i-quit-playing-apex-legends.gmi Why I quit playing Apex Legends
 => gemini://koyu.space/web/gemlog/why-i-like-the-fediverse.gmi Why I like the fediverse
 => gemini://koyu.space/web/gemlog/exploring-gemini.gmi Exploring Gemini
 => gemini://koyu.space/web/gemlog/why-the-1-as-favicon.gmi Why the “1” as favicon?
