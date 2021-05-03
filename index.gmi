@@ -79,4 +79,4 @@ I'm most active over on Telegram, Fediverse and via E-Mail and you can reach me 
 => gemini://gemini.circumlunar.space/~shufei/ shufei
 => gemini://gemlog.blue/users/kettlevoid/ Kettlevoid
 => gemini://distro.tube Distrotube
-=> gemini://perso.pw Solene
+=> gemini://perso.pw/blog/ Solene
