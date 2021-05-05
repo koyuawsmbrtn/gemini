@@ -12,7 +12,7 @@
 # The power of decentralization
 Posted on January 16, 2021 by koyu	
 
-So before Signal went down we were having some great discussions in our koyu.space Signal group. Now it’s been more than 24 hours since it’s down and this thanks to this guy.
+So before Signal went down we were having some great discussions in our koyu.space Signal group. Now it’s been more than 24 hours since it’s down.
 
 So why does decentralization matter? Well, it reduces the amount of friction if you want something that works reliably. For example if your server goes down one day, then you are the one you could point your fingers at. This makes such a network ultra-reliable if a user could just jump to the next available server. I think centralization of a network and therefore of power was never a great idea.
 
