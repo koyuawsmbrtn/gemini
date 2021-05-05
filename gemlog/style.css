@@ -3,9 +3,6 @@ body {
   color: #00ff00;
   font-family: monospace;
   padding: 10px;
-  width: 40%;
-  position: relative;
-  margin: 0 auto;
 }
 
 a, a:visited {
@@ -14,4 +11,12 @@ a, a:visited {
 
 a:hover {
   text-decoration: none;
+}
+
+@media(min-width:800px) {
+  body {
+    width: 40%;
+    position: relative;
+    margin: 0 auto;
+  }
 }
