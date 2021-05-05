@@ -13,8 +13,6 @@
 
 Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located in Northern Germany establishing internet services for you and your friends.
 
-=> https://web.koyu.space/ For all blog posts and full sites click here
-
 ## Projects
 
 => https://koyu.space/about/more#services I'm the benevolent dictator for life of koyu.space and its services
@@ -54,9 +52,16 @@ I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 
 I'm most active over on Telegram, Fediverse and via E-Mail and you can reach me best between 10 and 22 in Central European (Summer) Time. Please wait a few hours for a response as I have a lot of people messaging me. I answer every friend request on the Xbox network, but only favourite people I already met.
 
+# Xbox
+
+I have an Xbox Series S, click below to visit the Xbox Portal to see what games I own and what I have around here
+
+=> xbox.gmi
+
 ## Instance Recommendations
 
-=> https://web.koyu.space/instance-recommendations/ For the full list and how to get listed click here
+=> instances.csv Full list as CSV file
+=> instance-howto.gmi How to get listed
 
 * fedi.absturztau.be
 * cdrom.tokyo
