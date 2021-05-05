@@ -11,7 +11,7 @@
 document.onreadystatechange = () => {
   if (document.readyState === 'complete') {
     if (location.href.includes(".html") && !location.href.includes("index.html")) {
-      document.body.innerHTML += "<br><br><a href=\"/\">Back to front page</a>";
+      document.body.innerHTML += "<br><br><a href=\"../index.html\">Back to front page</a>";
     }
   }
 };
