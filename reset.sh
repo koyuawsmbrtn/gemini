@@ -1,3 +1,3 @@
 #!/bin/bash
 rm -f *.html
-rm -f gemlog/*.html
+rm -f log/*.html

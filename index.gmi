@@ -20,16 +20,16 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 => gemini://koyu.space I host Gemini sites for other people
 => gemini://koyu.space/rockshow/ ...and also host a radio show on tilderadio
 
-## Gemlog
+## Log
 
-=> gemlog/why-i-quit-playing-apex-legends.gmi Why I quit playing Apex Legends
-=> gemlog/why-i-like-the-fediverse.gmi Why I like the fediverse
-=> gemlog/exploring-gemini.gmi Exploring Gemini
-=> gemlog/why-the-1-as-favicon.gmi Why the “1” as favicon?
-=> gemlog/the-power-of-decentralization.gmi The power of decentralization
-=> gemlog/rambling-about-linux-vs-windows.gmi Rambling about Linux vs. Windows
-=> gemlog/how-to-plan-and-host-a-mastodon-instance.gmi How to plan and host a Mastodon instance
-=> gemlog/how-to-compile-butt-on-solus.gmi How to compile butt on Solus
+=> log/why-i-quit-playing-apex-legends.gmi Why I quit playing Apex Legends
+=> log/why-i-like-the-fediverse.gmi Why I like the fediverse
+=> log/exploring-gemini.gmi Exploring Gemini
+=> log/why-the-1-as-favicon.gmi Why the “1” as favicon?
+=> log/the-power-of-decentralization.gmi The power of decentralization
+=> log/rambling-about-linux-vs-windows.gmi Rambling about Linux vs. Windows
+=> log/how-to-plan-and-host-a-mastodon-instance.gmi How to plan and host a Mastodon instance
+=> log/how-to-compile-butt-on-solus.gmi How to compile butt on Solus
 
 ## About me
 
