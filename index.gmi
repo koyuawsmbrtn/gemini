@@ -16,20 +16,20 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 ## Projects
 
 => https://koyu.space/about/more#services I'm the benevolent dictator for life of koyu.space and its services
-=> fossil/ I made a browser to browse Gemini and Gopher
+=> fossil.gmi I made a browser to browse Gemini and Gopher
 => gemini://koyu.space I host Gemini sites for other people
 => gemini://koyu.space/rockshow/ ...and also host a radio show on tilderadio
 
 ## Gemlog
 
-=> gemini://koyu.space/web/gemlog/why-i-quit-playing-apex-legends.gmi Why I quit playing Apex Legends
-=> gemini://koyu.space/web/gemlog/why-i-like-the-fediverse.gmi Why I like the fediverse
-=> gemini://koyu.space/web/gemlog/exploring-gemini.gmi Exploring Gemini
-=> gemini://koyu.space/web/gemlog/why-the-1-as-favicon.gmi Why the “1” as favicon?
-=> gemini://koyu.space/web/gemlog/the-power-of-decentralization.gmi The power of decentralization
-=> gemini://koyu.space/web/gemlog/rambling-about-linux-vs-windows.gmi Rambling about Linux vs. Windows
-=> gemini://koyu.space/web/gemlog/how-to-plan-and-host-a-mastodon-instance.gmi How to plan and host a Mastodon instance
-=> gemini://koyu.space/web/gemlog/how-to-compile-butt-on-solus.gmi How to compile butt on Solus
+=> gemlog/why-i-quit-playing-apex-legends.gmi Why I quit playing Apex Legends
+=> gemlog/why-i-like-the-fediverse.gmi Why I like the fediverse
+=> gemlog/exploring-gemini.gmi Exploring Gemini
+=> gemlog/why-the-1-as-favicon.gmi Why the “1” as favicon?
+=> gemlog/the-power-of-decentralization.gmi The power of decentralization
+=> gemlog/rambling-about-linux-vs-windows.gmi Rambling about Linux vs. Windows
+=> gemlog/how-to-plan-and-host-a-mastodon-instance.gmi How to plan and host a Mastodon instance
+=> gemlog/how-to-compile-butt-on-solus.gmi How to compile butt on Solus
 
 ## About me
 
@@ -82,6 +82,6 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 => gemini://koyu.space/pukima/ Pukima
 => gemini://koyu.space/SEEK/ SEEK
 => gemini://gemini.circumlunar.space/~shufei/ shufei
-=> gemini://gemlog.blue/users/kettlevoid/ Kettlevoid
+=> gemini:/gemlog.blue/users/kettlevoid/ Kettlevoid
 => gemini://distro.tube Distrotube
 => gemini://perso.pw:1966/solene/ Solene

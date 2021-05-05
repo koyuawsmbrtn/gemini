@@ -23,7 +23,7 @@ CAD software is a whole different story and I hope there will be some good progr
 
 These are just Windows/Linux side-by-side…but the end-goal of Linux is not growing bigger, it’s just to have a perfectly capable operating system for most people next to the proprietary walled gardens we already have for decades now. I think where Linux can shine is 1) everywhere else, but not on the desktop 2) the average grandma user that just wants to write them e-mails and surf “The Internet”.
 
-Sure Linux has its advantages, but if we want to help it to grow we should get all the rather inexperienced people onto the boat and then laugh about hardcore Windows gamers then. But again: Linux’s end goal is not to grow bigger, it’s just an alternative (or better: a break) from all the garbled mess we have on the desktop.
+Sure Linux has its advantages, but if we want to help it to grow we should get all the rather inexperienced people onto the boat and then laugh about hardcore Windows gamers then. But again, Linux’s end goal is not to grow bigger, it’s just an alternative (or better, a break) from all the garbled mess we have on the desktop.
 
 What do I like about Windows?
 

@@ -14,8 +14,6 @@ Posted on January 16, 2021 by koyu
 
 So before Signal went down we were having some great discussions in our koyu.space Signal group. Now it’s been more than 24 hours since it’s down and this thanks to this guy.
 
-=> https://twitter.com/elonmusk/status/1347165127036977153 Elon Musk's infamous "Use Signal" Tweet
-
 So why does decentralization matter? Well, it reduces the amount of friction if you want something that works reliably. For example if your server goes down one day, then you are the one you could point your fingers at. This makes such a network ultra-reliable if a user could just jump to the next available server. I think centralization of a network and therefore of power was never a great idea.
 
 This is what I liked about the 90s web. Everyone was basically forced to have their own website and therefore compete with their raw information they shared. Blogs were ultra-popular until the early 2010s and I really liked it to read my favourite blogs, especially taking care of RSS Feed lists in my feedreader. This was way better than Facebook, Twitter and the sorts.

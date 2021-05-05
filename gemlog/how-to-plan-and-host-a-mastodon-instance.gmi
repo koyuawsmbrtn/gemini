@@ -16,7 +16,7 @@ As you might have heard I host my own Mastodon instance with a few other people.
 
 ## Resource consumption
 
-So before we start I’ll tell you what koyu.space consumes (a Mastodon instance with 2.1k users, an averaged-sized instance):
+So before we start I’ll tell you what koyu.space consumes (a Mastodon instance with 2.1k users, an averaged-sized instance)
 
 * 12GB RAM in idle
 * 40GB database storage (on a SSD, because we get a lot of queries)

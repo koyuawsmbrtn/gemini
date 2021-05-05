@@ -1,0 +1,9 @@
+* {
+  background: #000;
+  color: #00ff00;
+  font-family: monospace;
+}
+
+a:hover {
+  text-decoration: none;
+}

@@ -12,7 +12,7 @@
 # Why the "1" as favicon?
 Posted on January 17, 2021 by koyu	
 
-In standard SQL fashion (koyu.space uses PostgreSQL) users are getting a number. This number is easier for computers and programmers to process as you don’t have to type out changable values like an e-mail adress. It just saves time hunting your software for bugs.
+In standard SQL fashion users are getting a number. This number is easier for computers and programmers to process as you don’t have to type out changable values like an e-mail adress. It just saves time hunting your software for bugs.
 
 My number in the koyu.space database is “1”. This is also why the favicon is a 1.
 
