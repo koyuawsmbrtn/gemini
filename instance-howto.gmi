@@ -2,7 +2,7 @@
   _
  | |
  | | _____  _   _ _   _
- | |/ / _ \| | | | | | |       koyu's personal gemini capsule
+ | |/ / _ \| | | | | | |            koyu's personal space
  |   < (_) | |_| | |_| |            inside a nerd's life
  |_|\_\___/ \__, |\__,_|  You are here: Instance listing how-to
              __/ |
