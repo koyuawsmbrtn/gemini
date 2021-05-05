@@ -1,2 +1,6 @@
+<footer>
 <br><br>
 <p style="font-size:14pt;">Best viewed on <a href="https://gemini.circumlunar.space" target="_blank">Gemini</a>: <a href="gemini://koyu.space/web/">gemini://koyu.space/web/</a></p>
+</footer>
+</body>
+</html>
