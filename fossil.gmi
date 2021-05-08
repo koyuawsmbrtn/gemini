@@ -14,4 +14,4 @@ Fossil is a browser written in GTK and Vala for the GNOME desktop environment.
 
 => https://github.com/koyuspace/fossil Source code and compilation instructions
 => https://fossil.koyu.space Website and binary downloads
-=> images/fossil-screenshot.png Screenshot
+=> img/fossil-screenshot.png Screenshot
