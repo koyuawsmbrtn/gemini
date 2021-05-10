@@ -1,6 +1,6 @@
 <br>
 <footer>
 <p>Also available on Gemini at <a href="gemini://koyu.space/web">gemini://koyu.space/web</a></p>
-<footer>
+</footer>
 </body>
 </html>
