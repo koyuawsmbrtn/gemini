@@ -9,7 +9,7 @@
 <title>koyu's personal website</title>
 <script>
 document.onreadystatechange = () => {
-  if (document.readyState === 'complete') {
+  if (document.readyState === "complete") {
     if (location.href.includes(".html") && !location.href.includes("index.html")) {
       document.body.innerHTML += "<br><br><a href=\"../index.html\">Back to front page</a>";
     }
