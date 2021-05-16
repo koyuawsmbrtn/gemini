@@ -1,14 +1,3 @@
-```
-  _                     
- | |                    
- | | _____  _   _ _   _ 
- | |/ / _ \| | | | | | |      koyu's personal space
- |   < (_) | |_| | |_| |      inside a nerd's life
- |_|\_\___/ \__, |\__,_|       You are here: Log
-             __/ |      
-            |___/       
-```
-
 # How to plan and host a Mastodon instance
 Posted on November 1, 2020 by koyu	
 

@@ -11,7 +11,7 @@
 
 # How to get listed on the instance recommendation list
 
-* Your instance is older than six months (can’t be checked that easily, so I just take when the domain for the instance has been registered)
+* Your instance is older than six months
 * You don’t block too many instances so that it makes it harder for your users to communicate
 * Either you openly publish your blocklist or tell me who you blocked. Again, I want people to communicate.
 * The admins are easily reachable and users can come to them whenever they have a problem and get on-point answers to their problems. A user forum would be nice, but not necessary.
