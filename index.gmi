@@ -12,7 +12,6 @@ Hi, I'm koyu usually and I am a programmer located in Northern Germany establish
 ## Log
 
 => log/ly.gmi The ly display manager
-=> log/why-i-quit-playing-apex-legends.gmi Why I quit playing Apex Legends
 => log/why-i-like-the-fediverse.gmi Why I like the fediverse
 => log/exploring-gemini.gmi Exploring Gemini
 => log/why-the-1-as-favicon.gmi Why the “1” as favicon?
