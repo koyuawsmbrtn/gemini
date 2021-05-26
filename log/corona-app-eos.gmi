@@ -15,7 +15,7 @@ To get started you do these steps (assuming you got /e/OS installed):
 3. If you are in the categories view you now scroll down and tap System apps
 4. Afterwards you hit "Install" on the only app that's there called "microG Exposure Notifications"
 5. Then go back and hit the search icon and search for your desired COVID-19 tracking app made by your government and hit install there
-6. If the app has been installed open it, tap "Exposure Notifications" and enable it
+6. Go to settings, system, microG and tap "Exposure Notifications" and enable it
 7. Launch your COVID-19 tracking app and set it up.
 
 You are now helping you and others detecting COVID-19 in your area! 🎉
