@@ -14,9 +14,9 @@ a:hover {
 }
 
 .emoji {
-  width: 16px;
-  height: 16px;
-  vertical-align: middle;
+  width: 16px !important;
+  height: 16px !important;
+  vertical-align: middle !important;
 }
 
 @media(min-width:800px) {
