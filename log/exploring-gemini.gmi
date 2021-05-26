@@ -5,7 +5,7 @@ After a bit passing of time I thought to have a look at the Gemini network and s
 
 ## Differences between the WWW and Gemini
 
-Gemini URLs start with gemini and servers run on port 1965 (an unprivileged port). The file format for Gemini isn't HTML, it's GMI (short form of Gemini) with the unofficial MIME-type text/gemini. Files are served over a protocol using TCP and and modern features like TLS and GMI files are text-only with links to other capsules (just like in the early days of the WWW). Status codes are made up of two instead of three digets e.g. 2x means OK and 3x means redirect. User authentication can happen over input fields or cerificates (which is the recommended way), but so far no capsule utilizes user authentication. It has a search engine just like on the WWW, but is pretty barebones. Gemini also has mirrors of clearnet websites.
+Gemini URLs start with gemini and servers run on port 1965. The file format for Gemini isn't HTML, it's GMI with the unofficial MIME-type text/gemini. Files are served over a protocol using TCP and and modern features like TLS and GMI files are text-only with links to other capsules. Status codes are made up of two instead of three digets e.g. 2x means OK and 3x means redirect. User authentication can happen over input fields or cerificates, but so far no capsule utilizes user authentication. It has a search engine just like on the WWW, but is pretty barebones. Gemini also has mirrors of clearnet websites.
 
 Taken from the project's Gemini capsule it tries to be the following
 
@@ -17,13 +17,13 @@ Taken from the project's Gemini capsule it tries to be the following
 
 ## Clients
 
-My clients of choice are AV-98 (CLI) and Lagrange (GUI). There are currently two proxies at portal.mozz.us (which I use) and at proxy.vulpes.one.
+My clients of choice are AV-98 and Lagrange. There are currently two proxies at portal.mozz.us and at proxy.vulpes.one.
 
 ## Where to start and good sites
 
 If you want to host your own capsule you can set up your own VPS with a server software of your choice. Chris Were has written down a guide for it. You can also ask someone to host it for you, koyu.space and tilde.zone offer free space for your Gemini capsule.
 
-Gemini directories inside of Gemini are available at medusae.space and directory.randomroad.net. geminispace.info is an updated version of the GUS search engine (which somehow doesn't update its index since a few months as of writing). This blog is also available inside of Gemini.
+Gemini directories inside of Gemini are available at medusae.space and directory.randomroad.net. geminispace.info is an updated version of the GUS search engine. This blog is also available inside of Gemini.
 
 ## References
 

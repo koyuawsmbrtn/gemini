@@ -1,0 +1,26 @@
+# Getting the Corona Warn-App (and similar) to run on /e/OS
+Posted on May 26, 2021 by koyu	
+
+Some of you already heard that I use /e/OS as a daily driver now. /e/OS is an operating system for mobile phones (a few of them to be precise) made by the /e/ foundation. Unlike traditional mobile operating systems like Android or iOS the whole thing doesn't track you. I think your phone should be your phone and not Google's or Apple's. Recently after seeing the video by Laura and Aral I immediately noticed that other than iOS my other option towards a privacy-friendly, but low-cost mobile device would be /e/OS.
+
+## So how do I install my COVID-19 tracking app?
+
+Here in Germany we have an app that's called the Corona Warn-App, yours may be called differently, but the process is the same for every other app.
+
+To get started you do these steps (assuming you got /e/OS installed):
+
+0. Unlock your phone
+1. Swipe to the App store and tap the icon
+2. Then you tap categories
+3. If you are in the categories view you now scroll down and tap System apps
+4. Afterwards you hit "Install" on the only app that's there called "microG Exposure Notifications"
+5. Then go back and hit the search icon and search for your desired COVID-19 tracking app made by your government and hit install there
+6. If the app has been installed open it, tap "Exposure Notifications" and enable it
+7. Launch your COVID-19 tracking app and set it up.
+
+You are now helping you and others detecting COVID-19 in your area! 🎉
+
+## References
+
+=> https://vimeo.com/342972799 The video by Laura Kalbag and Aral Balkan about "Small Tech"
+=> https://e.foundation /e/foundation website

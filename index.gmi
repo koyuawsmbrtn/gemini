@@ -11,6 +11,7 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 
 ## Log
 
+=> log/corona-app-eos.gmi Getting the Corona Warn-App (and similar) to run on /e/OS
 => log/ly.gmi The ly display manager
 => log/why-i-like-the-fediverse.gmi Why I like the fediverse
 => log/exploring-gemini.gmi Exploring Gemini

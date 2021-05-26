@@ -1,7 +1,7 @@
 # How to compile butt on Solus
 Posted on July 23, 2020 by koyu	
 
-This is a small tutorial on how I got butt (broadcast using this tool) working on Solus.
+This is a small tutorial on how I got butt working on Solus.
 
 => https://danielnoethen.de/butt/ First download the source code from here
 
