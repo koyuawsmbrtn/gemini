@@ -1,12 +1,24 @@
 body {
-  background: #000;
-  color: #00ff00;
+  background: #eee;
+  color: #000;
   font-family: monospace;
   padding: 10px;
 }
 
 a, a:visited {
-  color: #00ff00;
+  color: #000;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000;
+    color: #00ff00;
+  }
+
+  a, a:visited {
+    color: #00ff00;
+  }
 }
 
 a:hover {
