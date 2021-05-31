@@ -82,7 +82,6 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 => gemini://perso.pw:1966/solene/ Solene
 => gemini://okoyono.de/~mezzo/ mezzodrinker
 
-
 ## Support
 
 => https://get.teamviewer.com/6ecshnr Get remote support
