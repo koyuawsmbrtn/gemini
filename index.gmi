@@ -58,7 +58,7 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 
 ## Instance Recommendations
 
-=> instances.csv Full list as CSV file
+=> instances.ods Full list as LibreOffice spreadsheet
 => instance-howto.gmi How to get listed
 
 * fedi.absturztau.be
