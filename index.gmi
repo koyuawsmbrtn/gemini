@@ -58,7 +58,7 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 
 => xbox.gmi Xbox Portal
 
-## Instance Recommendations
+## Fediverse instance list
 
 => instances.ods Full list as LibreOffice spreadsheet
 => instance-howto.gmi How to get listed
@@ -73,7 +73,7 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 * cybre.space
 * lets.bemoe.online
 
-## Capsules from friends, family or acquaintances
+## Gemini bookmarks
 
 => gemini://gem.chriswere.uk Chris Were
 => gemini://hexdsl.co.uk HexDSL
@@ -86,6 +86,6 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 => gemini://perso.pw:1966/solene/ Solene
 => gemini://okoyono.de/~mezzo/ mezzodrinker
 
-## Support
+## Remote support
 
-=> https://get.teamviewer.com/6ecshnr Get remote support
+=> https://get.teamviewer.com/6ecshnr Get remote support via TeamViewer
