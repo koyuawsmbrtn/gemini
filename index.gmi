@@ -8,6 +8,8 @@
 
 Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located in Northern Germany establishing internet services for you and your friends.
 
+---
+
 ## Projects
 
 => https://koyu.space/about/more#services I'm the benevolent dictator for life of koyu.space and its services
