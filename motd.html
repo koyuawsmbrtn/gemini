@@ -1,9 +1,12 @@
 <script>
-var userLang = navigator.language || navigator.userLanguage;
-if (userLang.startsWith("de")) {
-  $("#donate-button").html("<i class=\"fa fa-usd\" aria-hidden=\"true\"></i> Spenden");
-}
+$(document).ready(()=> {
+  var userLang = navigator.language || navigator.userLanguage;
+  if (userLang.split("-")[0] === "de") {
+    $("#donate-button").html("<i class=\"fa fa-usd\" aria-hidden=\"true\"></i> Spenden");
+  }
+});
 </script>
+<br><br>
 <a class="button" href="https://creapaid.com/koyuspace" target="_blank"><i class="fa fa-usd" aria-hidden="true"></i> Donate</a>
 <br>
 <style>#motd, #motd > #premotd > a {color:#000 !important;font-family:monospace !important;}#premotd{background:#fff !important;padding:3px !important;color: #000 !important;margin-top: 10px;border-radius:4px;}</style>
