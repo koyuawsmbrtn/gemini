@@ -1,3 +1,11 @@
+<script>
+var userLang = navigator.language || navigator.userLanguage;
+if (userLang.startsWith("de")) {
+  $("#donate-button").html("<i class=\"fa fa-usd\" aria-hidden=\"true\"></i> Spenden");
+}
+</script>
+<a class="button" href="https://creapaid.com/koyuspace" target="_blank"><i class="fa fa-usd" aria-hidden="true"></i> Donate</a>
+<br>
 <style>#motd, #motd > #premotd > a {color:#000 !important;font-family:monospace !important;}#premotd{background:#fff !important;padding:3px !important;color: #000 !important;margin-top: 10px;border-radius:4px;}</style>
 <div id="premotd">
 <a href="https://calendar.google.com/calendar/ical/ocfodfk5tdvsgptes9rpasn8fk%40group.calendar.google.com/public/basic.ics">iCal URL for the koyu.space event calendar</a> (right-click, copy link, subscribe in your calendar app)<br>

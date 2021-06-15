@@ -8,7 +8,7 @@
 
 # koyu's personal space
 
-Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located in Northern Germany establishing internet services for you and your friends.
+Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located in Northern Germany establishing internet services for you and your friends. I'm your average socialist computer nerd trying to liberate the cyberspace and meatspace for everyone. Thanks for stopping by and have a great time.
 
 ---
 
@@ -17,6 +17,7 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 => https://koyu.space/about/more#services I'm the benevolent dictator for life of koyu.space and its services
 => https://derxblog.de I'm running a German Xbox blog and hope to make a newspaper out of it someday
 => fossil.gmi I made a browser to browse Gemini and Gopher
+=> https://gemproxy.koyu.space I also made a web proxy for Gemini based on the very same software serving this site
 => gemini://koyu.space I host Gemini sites for other people
 => gemini://koyu.space/rockshow/ ...and also host a radio show on tilderadio
 
@@ -44,7 +45,7 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 * Citrus
 * Kill la Kill
 * Porco Rosso
-* Little Witch Academia (TV)
+* Little Witch Academia
 * Sword Art Online Alternative: Gun Gale Online
 * NEW GAME!
 
@@ -52,6 +53,13 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 
 * NEW GAME!!
 * Assasination Classroom
+
+## My book collection
+
+* Steve Jobs (ISBN: 978-3-442-74491-6)
+* Edward Snowden: Permanent Record (ISBN: 978-1-250-23723-1)
+* Pepper and Carrot (German) (ISBN: 978-3-8420-3657-4)
+* The Official Raspberry Pi Beginners Guide (ISBN: 978-1-912047-58-1)
 
 ## About me
 
@@ -71,7 +79,7 @@ I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 ## Contact
 
 * Fediverse/E-Mail: koyu@koyu.space
-* Xbox/Steam/Twitch/Telegram: bubblineyuri
+* Xbox/Steam/Twitch/Telegram/TikTok/Twitter: bubblineyuri
 * Discord: Leonie#8286
 
 I'm most active over on Telegram, Discord, Fediverse and via E-Mail and you can reach me best between 10 and 22 in CET/CEST. Please wait a few hours for a response as I have a lot of people messaging me. I answer every friend request on the Xbox network, but only favourite people I already met.
@@ -98,14 +106,19 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 * lets.bemoe.online
 * quietplace.xyz
 
-## Current tech setup
+## Current tech setup and lifestyle
+
+I'm trying to keep my belongings as minimal as possible which is a lifestyle called minimalism. I don't own much, but I own enough to get stuff done. I'm also trying to live as ecofriendly as possible by buying used hardware or getting them gifted by friends or family.
 
 * Xbox Series S
 * Sony CMT-EH25 Soundsystem
 * Acer X223w (Gen 2) display
-* Custom built PC with a GTX 750, AMD FX-8320, 16GB DDR3 RAM, 250GB SSD (OS), 1TB HDD (fast, data), 1TB HDD (slow, archive), 1TB HDD (external, archive/backups)
-* Sony H3110 smartphone (pioneer) running LineageOS 18.1 and MindtheGApps passing SafetyNet
-* HP 255 G6 laptop with 4GB RAM and some crappy AMD CPU
+* Fujitsu beige display with 1280x1024 resolution sometimes connected if I need a second display
+* Custom built PC with a GTX 750, AMD FX-8320, 16GB DDR3 RAM, 250GB SSD (OS), 1TB HDD (fast, data), 1TB HDD (slow, archive), 1TB HDD (external, archive/backups) running Arch Linux with GNOME called Zelda
+* Razer Ornata Chroma with OpenRGB
+* Sony Xperia XA2 H3110 smartphone (pioneer) running LineageOS 18.1 and MindtheGApps passing SafetyNet called Cloe
+* Nokia 6300 4G running KaiOS for development purposes, not a daily driver
+* HP 255 G6 laptop with 4GB RAM and some crappy AMD CPU running Arch Linux with GNOME as well called Luna
 
 ## Gemini bookmarks
 
