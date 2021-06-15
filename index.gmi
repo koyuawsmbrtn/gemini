@@ -15,6 +15,7 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 ## Projects
 
 => https://koyu.space/about/more#services I'm the benevolent dictator for life of koyu.space and its services
+=> https://derxblog.de I'm running a German Xbox blog and hope to make a newspaper out of it someday
 => fossil.gmi I made a browser to browse Gemini and Gopher
 => gemini://koyu.space I host Gemini sites for other people
 => gemini://koyu.space/rockshow/ ...and also host a radio show on tilderadio
@@ -27,9 +28,30 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 => log/exploring-gemini.gmi Exploring Gemini
 => log/why-the-1-as-favicon.gmi Why the “1” as favicon?
 => log/the-power-of-decentralization.gmi The power of decentralization
-=> log/rambling-about-linux-vs-windows.gmi Rambling about Linux vs. Windows
-=> log/how-to-plan-and-host-a-mastodon-instance.gmi How to plan and host a Mastodon instance
-=> log/how-to-compile-butt-on-solus.gmi How to compile butt on Solus
+
+=> log/archive.gmi Archive
+
+## My Anime watchlist
+
+### Completed
+
+* Aggretsuko
+* Aggretsuko: Season 2
+* Aggretsuko: Season 3
+* Castle in the Sky
+* Kiki's Delivery Service
+* My Neighbor Totoro
+* Citrus
+* Kill la Kill
+* Porco Rosso
+* Little Witch Academia (TV)
+* Sword Art Online Alternative: Gun Gale Online
+* NEW GAME!
+
+### Paused
+
+* NEW GAME!!
+* Assasination Classroom
 
 ## About me
 
@@ -76,6 +98,15 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 * lets.bemoe.online
 * quietplace.xyz
 
+## Current tech setup
+
+* Xbox Series S
+* Sony CMT-EH25 Soundsystem
+* Acer X223w (Gen 2) display
+* Custom built PC with a GTX 750, AMD FX-8320, 16GB DDR3 RAM, 250GB SSD (OS), 1TB HDD (fast, data), 1TB HDD (slow, archive), 1TB HDD (external, archive/backups)
+* Sony H3110 smartphone (pioneer) running LineageOS 18.1 and MindtheGApps passing SafetyNet
+* HP 255 G6 laptop with 4GB RAM and some crappy AMD CPU
+
 ## Gemini bookmarks
 
 => gemini://gem.chriswere.uk Chris Were
@@ -88,6 +119,16 @@ I have an Xbox Series S, click below to visit the Xbox Portal to see what games 
 => gemini://distro.tube Distrotube
 => gemini://perso.pw:1966/solene/ Solene
 => gemini://okoyono.de/~mezzo/ mezzodrinker
+
+## WWW bookmarks
+
+=> https://chriswere.uk Chris Were
+=> https://hexdsl.co.uk HexDSL
+=> https://friendo.monster Friendo aka Drew
+=> https://pukima.site Pukima
+=> https://distrotube.com Distrotube
+=> https://tilde.club/~snowdusk/ Snowdusk
+=> https://archlinux.org/mirrorlist/ Arch Linux Mirrorlist generator
 
 ## Remote support
 
