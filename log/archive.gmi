@@ -2,7 +2,7 @@
 
 ## Log archive
 
-I archive older blog posts to keep the frontpage short and quick.
+I archive older log posts to keep the frontpage short and quick.
 
 => rambling-about-linux-vs-windows.gmi Rambling about Linux vs. Windows
 => how-to-plan-and-host-a-mastodon-instance.gmi How to plan and host a Mastodon instance
