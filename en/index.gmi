@@ -74,7 +74,7 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 
 I am also on Tilderadio with my rock show every Thursday at 18:00 UTC.
 
-=> ../me.png Here is a picture of me!
+=> me.png Here is a picture of me!
 
 ## Contact
 

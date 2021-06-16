@@ -73,7 +73,7 @@ Hallo, ich bin koyu (im echten Leben Leonie genannt) und ich bin eine Softwareen
 
 Ich habe außerdem eine Radio-Show auf tilderadio.org jeden Donnerstag um 18:00 in UTC-Zeit.
 
-=> ../me.png Hier ist ein Bild von mir!
+=> me.png Hier ist ein Bild von mir!
 
 ## Kontakt
 
