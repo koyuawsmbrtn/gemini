@@ -1,6 +1,7 @@
 # koyu's personal space
 
 Choose a language:
+Wähle eine Sprache:
 
 => en/ English
-=> de/ German
+=> de/ Deutsch
