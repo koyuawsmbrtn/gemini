@@ -1,0 +1,147 @@
+```
+{\_/}
+(•.•)
+/> ❤️
+```
+
+=> https://mkorostoff.github.io/incarceration-in-real-numbers/ Wichtige Nachricht: Endet die Masseninhaftierung
+
+# koyu's persönlicher Space
+
+Hallo, ich bin koyu (im echten Leben Leonie genannt) und ich bin eine Softwareentwicklerin, Systemadministratorin und Designerin aktuell in Norddeutschland ansässig und gestalte Internetdienste für dich und deine Freunde. Ich bin deine herkömmliche sozialistische Nerdine, die versucht den Cyberspace und Meatspace für jeden offen und zugänglich zu halten. Vielen Dank, dass du dir die Zeit genommen hast hier vorbei zu schauen.
+
+---
+
+## Projekte
+
+=> https://koyu.space/about/more#services Ich bin die allseitsgeliebte Herrscherin über koyu.space und dessen Dienste
+=> https://derxblog.de Ich betreibe einen Xbox-Blog und hoffe daraus eines Tages eine Zeitschrift machen zu können
+=> fossil.gmi Ich habe einen Browser gemacht, mit dem man Gemini und Gopher ansurfen kann
+=> https://gemproxy.koyu.space Ich habe auch einen Gemini-Webproxy geschrieben
+=> gemini://koyu.space Ich hoste Gemini-Seiten für andere Leute
+=> gemini://koyu.space/rockshow/ ...und habe eine Radioshow auf tilderadio
+
+## Log (Englisch)
+
+=> ../en/log/corona-app-eos.gmi Getting the Corona Warn-App (and similar) to run on /e/OS
+=> ../en/log/ly.gmi The ly display manager
+=> ../en/log/why-i-like-the-fediverse.gmi Why I like the fediverse
+=> ../en/log/exploring-gemini.gmi Exploring Gemini
+=> ../en/log/why-the-1-as-favicon.gmi Why the “1” as favicon?
+=> ../en/log/the-power-of-decentralization.gmi The power of decentralization
+
+=> ../en/../en/log/archive.gmi Archiv
+
+## Meine Anime-Watchlist
+
+### Fertig
+
+* Aggretsuko
+* Aggretsuko: Season 2
+* Aggretsuko: Season 3
+* Castle in the Sky
+* Kiki's Delivery Service
+* My Neighbor Totoro
+* Citrus
+* Kill la Kill
+* Porco Rosso
+* Little Witch Academia
+* Sword Art Online Alternative: Gun Gale Online
+* NEW GAME!
+
+### Pausiert
+
+* NEW GAME!!
+* Assasination Classroom
+
+## Meine Büchersammlung
+
+* Steve Jobs (ISBN: 978-3-442-74491-6)
+* Edward Snowden: Permanent Record (englische Fassung) (ISBN: 978-1-250-23723-1)
+* Pepper and Carrot (deutsche Fassung) (ISBN: 978-3-8420-3657-4)
+* The Official Raspberry Pi Beginners Guide (ISBN: 978-1-912047-58-1)
+
+## Über mich
+
+* Ist 22 Jahre alt
+* Mag Computer und alles andere
+* Spricht flüssig Deutsch und Englisch und kann romanische Sprachen wie Italienisch, Spanisch oder Französisch verstehen
+* Kann mehrere Stunden ausdauernd laufen
+* Hört jede Musikrichtung (außer Schlager)
+* Mein Gehirn schmiert ab und zu einfach ab, weil es auf Windows läuft. Schade.
+* Kann in der Programmiersprache des Teufels programmieren: JavaScript
+
+Ich habe außerdem eine Radio-Show auf tilderadio.org jeden Donnerstag um 18:00 in UTC-Zeit.
+
+=> ../me.png Hier ist ein Bild von mir!
+
+## Kontakt
+
+* Fediverse/E-Mail: koyu@koyu.space
+* Xbox/Steam/Twitch/Telegram/Snapchat/Twitter: bubblineyuri
+* Discord: Leonie#8286
+
+Ich bin am meisten aktiv auf Telegram, Discord, im Fediverse und per Mail und du kannst mich am besten zwisch 10 und 22 in CET/CEST-Zeit erreichen. Bitte warte ein paar Stunden, da ich viele Leute habe, die mich gleichzeitig anschreiben. Ich beantworte jede Freundschaftsanfrage im Xbox-Netzwerk, aber favorisiere nur Leute, die ich bereits kenne.
+
+## Xbox
+
+Ich besitze eine Xbox. Schau im Xbox-Portal vorbei, was ich alles an Spielen und anderen Dingen habe.
+
+=> xbox.gmi Xbox-Portal
+
+## Fediverse Instanz-Liste
+
+=> ../instances.ods Volle Liste als LibreOffice-Spreadsheet (englisch)
+=> instance-howto.gmi Wie wird man gelistet
+
+* fedi.absturztau.be
+* cdrom.tokyo
+* raru.re
+* koyu.space
+* qoto.org
+* ieji.de
+* social.tchncs.de
+* cybre.space
+* lets.bemoe.online
+* quietplace.xyz
+
+## Aktuelles Technik-Setup und Lifestyle
+
+Ich versuche, mein Hab und Gut so minimal wie möglich zu halten, was ein Lebensstil ist, der Minimalismus genannt wird. Ich besitze nicht viel, aber ich besitze genug, um Dinge zu erledigen. Ich versuche auch, so umweltfreundlich wie möglich zu leben, indem ich gebrauchte Hardware kaufe oder sie von Freunden oder Familie geschenkt bekomme.
+
+* Xbox Series S
+* Sony CMT-EH25 Soundsystem
+* Acer X223w (Gen 2) Bildschirm
+* Ein Fujitsu beige Display mit einer Auflösung von 1280x1024, manchmal angeschlossen, wenn ich einen zweiten Bildschirm benötige
+* Selbstbau-PC mit einer GTX 750, einem AMD FX-8320, 16 GB DDR3-RAM, 250 GB SSD (OS), 1 TB HDD (schnell, Daten), 1 TB HDD (langsam, Archiv), 1 TB HDD (extern, Archiv/Backups) mit Arch Linux und GNOME namens Zelda
+* Razer Ornata Chroma mit OpenRazer
+* Sony Xperia XA2 H3110 Smartphone (pioneer) mit LineageOS 18.1 und MindtheGApps und SafetyNet-Funktionalität namens Cloe
+* Nokia 6300 4G mit KaiOS für Entwicklungszwecke, nicht aktiv im Einsatz
+* HP 255 G6-Laptop mit 4 GB RAM und einer beschissenen AMD-CPU mit Arch Linux und GNOME, wird Luna genannt
+
+## Gemini-Lesezeichen
+
+=> gemini://gem.chriswere.uk Chris Were
+=> gemini://hexdsl.co.uk HexDSL
+=> gemini://friendo.monster Friendo aka Drew
+=> gemini://koyu.space/pukima/ Pukima
+=> gemini://koyu.space/SEEK/ SEEK
+=> gemini://gemini.circumlunar.space/~shufei/ shufei
+=> gemini://gemlog.blue/users/kettlevoid/ Kettlevoid
+=> gemini://distro.tube Distrotube
+=> gemini://perso.pw:1966/solene/ Solene
+=> gemini://okoyono.de/~mezzo/ mezzodrinker
+
+## WWW-Lesezeichen
+
+=> https://chriswere.uk Chris Were
+=> https://hexdsl.co.uk HexDSL
+=> https://friendo.monster Friendo aka Drew
+=> https://pukima.site Pukima
+=> https://distrotube.com Distrotube
+=> https://tilde.club/~snowdusk/ Snowdusk
+=> https://archlinux.org/mirrorlist/ Arch Linux Mirrorlist generator
+
+## Computer-Fernhilfe
+
+=> https://get.teamviewer.com/6ecshnr Bekomme Hilfe aus der Ferne mit TeamViewer

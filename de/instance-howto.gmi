@@ -1,0 +1,18 @@
+# So wirst du in die Empfehlungsliste für Instanzen aufgenommen
+
+* Deine Instanz ist älter als sechs Monate
+* Du blockierst nicht zu viele Instanzen, damit deine Benutzer nicht kommunizieren können
+* Entweder du veröffentlichst offen deine Sperrliste oder sagst mir, wen du blockiert hast. Auch hier möchte ich, dass die Leute kommunizieren.
+* Die Admins sind leicht erreichbar und Benutzer können zu ihnen kommen, wenn sie ein Problem haben, um Antworten auf ihre Probleme erhalten. Ein Benutzerforum wäre schön, aber nicht notwendig.
+* Du bist dir zu 100 % sicher, dass deine Instanz über einen langen Zeitraum weiterleben wird
+* Regelmäßige Backups der Benutzerdaten oder andere Datensicherheitsmaßnahmen
+* DSGVO-konform (z.B. kein Google Analytics und Möglichkeit der Nutzer, ihre Daten anzufordern oder zu löschen, Hosting vorzugsweise EU-basiert)
+* Transport Layer Security (TLS), damit Pakete während der Übertragung sicher sind (dies bedeutet nicht, dass Administratoren oder Strafverfolgungsbehörden deine Nachrichten nicht lesen dürfen, wenn du eine sichere Kommunikation brauchst, verwendest du einen verschlüsselten Messaging-Dienst wie Element)
+* Du garantierst eine gewisse Verfügbarkeit (idealerweise >90%)
+* Deine Instanz sollte nicht zu allgemein sein, dass sie schlicht und langweilig aussehen würde (mastodon.social und mstdn.io, ihr seid leider nicht dabei)
+* Deine Instanz sollte weniger als 50.000 Nutzer haben, damit sie gleichmäßig verteilt sind (wer zahlt für die ganze Bandbreite)
+* Deine Instanz sollte sich von der Masse abheben (Füge Themes oder Mods hinzu...was auch immer du willst)
+* Data Mining ist ein großes No-Go, das auch den Verkauf von Benutzerdaten an Facebook beinhaltet. Hör auf, es ist widerlich. Aus diesem Grund befinden wir uns im Fediversum.
+* Deine Instanz kann jede beliebige Software ausführen (Pleroma, Misskey, Mastodon, …)
+* Muss offene Registrierungen haben (nur auf Einladung oder manuelle Genehmigung in Ordnung)
+* Sollte keine Einzelbenutzerinstanz sein
