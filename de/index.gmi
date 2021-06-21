@@ -119,7 +119,7 @@ Ich versuche, mein Hab und Gut so minimal wie möglich zu halten, was ein Lebens
 * Razer Ornata Chroma mit OpenRazer
 * Sony Xperia XA2 H3110 Smartphone (pioneer) mit LineageOS 18.1 und MindtheGApps und SafetyNet-Funktionalität namens Cloe
 * Nokia 6300 4G mit KaiOS für Entwicklungszwecke, nicht aktiv im Einsatz
-* HP 255 G6-Laptop mit 4 GB RAM und einer beschissenen AMD-CPU mit Arch Linux und GNOME, wird Luna genannt
+* HP 255 G6-Laptop mit 4 GB RAM und einer beschissenen AMD-CPU mit Cloudready, wird Luna genannt
 
 ## Gemini-Lesezeichen
 
