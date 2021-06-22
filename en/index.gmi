@@ -132,6 +132,7 @@ I'm trying to keep my belongings as minimal as possible which is a lifestyle cal
 => gemini://distro.tube Distrotube
 => gemini://perso.pw:1966/solene/ Solene
 => gemini://okoyono.de/~mezzo/ mezzodrinker
+=> gemini://konpeito.media/ Konpeito Media
 
 ## WWW bookmarks
 

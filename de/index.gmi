@@ -133,6 +133,7 @@ Ich versuche, mein Hab und Gut so minimal wie möglich zu halten, was ein Lebens
 => gemini://distro.tube Distrotube
 => gemini://perso.pw:1966/solene/ Solene
 => gemini://okoyono.de/~mezzo/ mezzodrinker
+=> gemini://konpeito.media/ Konpeito Media
 
 ## WWW-Lesezeichen
 
