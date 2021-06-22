@@ -21,6 +21,10 @@ Hi, I'm koyu (usually called Leonie in real life) and I am a programmer located 
 => gemini://koyu.space I host Gemini sites for other people
 => gemini://koyu.space/rockshow/ ...and also host a radio show on tilderadio
 
+## Log (German)
+
+=> ../de/log/konpeito.gmi Konpeito Media
+
 ## Log
 
 => log/corona-app-eos.gmi Getting the Corona Warn-App (and similar) to run on /e/OS

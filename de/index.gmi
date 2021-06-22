@@ -23,6 +23,10 @@ Hallo, ich bin koyu (im echten Leben Leonie genannt) und ich bin eine Softwareen
 => gemini://koyu.space Ich hoste Gemini-Seiten für andere Leute
 => gemini://koyu.space/rockshow/ ...und habe eine Radioshow auf tilderadio
 
+## Log
+
+=> log/konpeito.gmi Konpeito Media
+
 ## Log (Englisch)
 
 => ../en/log/corona-app-eos.gmi Getting the Corona Warn-App (and similar) to run on /e/OS
