@@ -6,7 +6,7 @@
 
 => https://mkorostoff.github.io/incarceration-in-real-numbers/ Wichtige Nachricht: Endet die Masseninhaftierung
 
-# 🐇️ koyu's persönliche Kapsel
+#  koyu's persönliche Kapsel
 
 Hallo, ich bin koyu (im echten Leben Leonie genannt) und ich bin eine Softwareentwicklerin, Systemadministratorin und Designerin aktuell in Norddeutschland ansässig und gestalte Internetdienste für dich und deine Freunde. Ich bin deine herkömmliche sozialistische Nerdine, die versucht den Cyberspace und Meatspace für jeden offen und zugänglich zu halten. Vielen Dank, dass du dir die Zeit genommen hast hier vorbei zu schauen.
 

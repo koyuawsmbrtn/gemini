@@ -1,7 +1,7 @@
 # Konpeito Media
 Veröffentlicht am 22. Juni 2021 von koyu
 
-Ich hatte vor kurzem eine Kapsel namens "Konpeito" entdeckt, worauf man eine Reihe an vierteljährlichen LoFi Mixtapes findet. Die Idee ist simpel: alle vier Monate ein LoFi Mixtape exklusiv im Geminispace Veröffentlichen, welches sich jeder dann über das Gemini-Netzwerk herunterladen kann. Ich höre es gerne beim Arbeiten und kann es jedem weiterempfehlen, der gerne LoFi-Musik hört.
+Ich hatte vor kurzem eine Kapsel namens "Konpeito" entdeckt, worauf man eine Reihe an vierteljährlichen LoFi Mixtapes findet. Die Idee ist simpel: alle vier Monate ein LoFi Mixtape exklusiv im Geminispace veröffentlichen, welches sich jeder dann über das Gemini-Netzwerk herunterladen kann. Ich höre es gerne beim Arbeiten und kann es jedem weiterempfehlen, der gerne LoFi-Musik hört.
 
 ## Referenzen
 
