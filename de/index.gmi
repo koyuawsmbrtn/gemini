@@ -29,6 +29,7 @@ Hallo, ich bin koyu (im echten Leben Leonie genannt) und ich bin eine Softwareen
 
 ## Log (Englisch)
 
+=> ../en/log/windows11.gmi Windows 11...
 => ../en/log/corona-app-eos.gmi Getting the Corona Warn-App (and similar) to run on /e/OS
 => ../en/log/ly.gmi The ly display manager
 => ../en/log/why-i-like-the-fediverse.gmi Why I like the fediverse
