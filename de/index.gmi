@@ -125,11 +125,11 @@ Ich versuche, mein Hab und Gut so minimal wie möglich zu halten, was ein Lebens
 * Sony CMT-EH25 Soundsystem
 * Acer X223w (Gen 2) Bildschirm
 * Ein Fujitsu beige Display mit einer Auflösung von 1280x1024, manchmal angeschlossen, wenn ich einen zweiten Bildschirm benötige
-* Selbstbau-PC mit einer GTX 750, einem AMD FX-8320, 16 GB DDR3-RAM, 250 GB SSD (OS), 1 TB HDD (schnell, Daten), 1 TB HDD (langsam, Archiv), 1 TB HDD (extern, Archiv/Backups) mit Arch Linux und GNOME namens Zelda
+* Selbstbau-PC mit einer GTX 750, einem AMD FX-8320, 16 GB DDR3-RAM, 250 GB SSD (OS), 1 TB HDD (schnell, Daten), 1 TB HDD (langsam, Archiv), 1 TB HDD (extern, Archiv/Backups) mit KDE neon namens Zelda
 * Razer Ornata Chroma mit OpenRazer
-* Sony Xperia XA2 H3110 Smartphone (pioneer) mit LineageOS 18.1 und MindtheGApps und SafetyNet-Funktionalität namens Cloe
+* Sony Xperia XA2 H3110 Smartphone (pioneer) mit Sailfish OS (bezahlt) namens Cloe
 * Nokia 6300 4G mit KaiOS für Entwicklungszwecke, nicht aktiv im Einsatz
-* HP 255 G6-Laptop mit 4 GB RAM und einer beschissenen AMD-CPU mit Cloudready, wird Luna genannt
+* HP 255 G6-Laptop mit 4 GB RAM und einer beschissenen AMD-CPU mit KDE neon, wird Luna genannt
 
 ## Gemini-Lesezeichen
 
