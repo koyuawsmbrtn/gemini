@@ -1,7 +1,3 @@
-#  koyu's personal capsule
+# Nope!
 
-Choose a language:
-Wähle eine Sprache:
-
-=> en/ English
-=> de/ Deutsch
+Sad to see, but this capsule isn't maintained anymore! (⌣_⌣”)
