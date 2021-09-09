@@ -1,5 +1,33 @@
-# Nope!
+# koyu's personal Gemini capsule
 
-Sad to see, but this capsule isn't maintained anymore! (⌣_⌣”)
+> The idea of the internet was to be private, free as in freedom and decentralised. Now we're here.
 
-=> old/ You can view an archived version here
+> Mostly megacorps and law makers getting paid by them are to blame. Surprise.
+
+> I want to live in a world where everyone uses IRC, Gemini and Linux and isn't restricted in what they want to say even if it might upset people. Rule of the thumb is as long as your community isn't close-knitted and you're able to choose what information you want to view it shouldn't be limited in what you can put on it.
+
+It's time to reclaim the internet!
+
+=> contact.gmi Contact me
+=> https://web.koyu.space Visit my website
+
+```
+                                                                   ,-,
+                                                             _.-=;~ /_
+                                                          _-~   '     ;.
+                                                      _.-~     '   .-~-~`-._
+                                                _.--~~:.             --.____88
+                              ____.........--~~~. .' .  .        _..-------~~
+                     _..--~~~~               .' .'             ,'
+                 _.-~                        .       .     ` ,'
+               .'                                    :.    ./
+             .:     ,/          `                   ::.   ,'
+           .:'     ,(            ;.                ::. ,-'
+          .'     ./'.`.     . . /:::._______.... _/:.o/
+         /     ./'. . .)  . _.,'               `88;?88|
+       ,'  . .,/'._,-~ /_.o8P'                  88P ?8b
+    _,'' . .,/',-~    d888P'                    88'  88|
+ _.'~  . .,:oP'        ?88b              _..--- 88.--'8b.--..__
+:     ...' 88o __,------.88o ...__..._.=~- .    `~~   `~~      ~-._  _.
+`.;;;:='    ~~            ~~~                ~-    -       -   -
+```
