@@ -1,0 +1,34 @@
+# Drucker Spooling, Schnittstellen, Treiber und Sprachen
+
+## Spooling
+
+Es gibt in modernen Betriebssystemen wie Windows, macOS oder Linux zwei Drucksysteme, von denen eins mal mehr oder weniger gut funktioniert.
+
+### CUPS
+
+CUPS wird von Apple entwickelt und gepflegt und findet in unixoiden Betriebssystemen wie macOS, BSD oder Linux Einsatz. Es ist ein sehr stabiles, auf PostScript aufbauendes Drucksystem. Mit CUPS können aber auch Drucker angesprochen werden, die kein PostScript sprechen bspw. Nadeldrucker o.ä.
+
+### Windows Spooler (Druckdienst)
+
+Dies ist Microsoft's eigene Implementation vom Drucker-Spooler. Dieser unterstützt wie CUPS auch eine Reihe an Druckersprachen, aber auch mehr Drucker. Microsoft ist mit derem eigenen Windows-spezifischen Druckdienst Alleingänger. Deren Druckerdienst hat aber auch massive Probleme mit Sicherheit und Stabilität, Stichwort Printer Nightmare und feststeckende Spooler-Warteschlangen.
+
+## Druckertreiber
+
+Druckertreiber sorgen dafür, dass das Betriebssystem weiß, wie man mit dem Drucker umgehen soll. Dank PostScript ist es relativ einfach für einen Hersteller beispielsweise unter CUPS 
+
+## Druckersprachen
+
+Die Programmiersprache für Drucker wird häufig auch Druckersprache genannt. Man unterscheidet hier zwischen Sprachen, die den Aufbau einer Seite beschreiben oder Sprachen, die die rohen Druckdaten enthalten, mit denen der Drucker umgehen soll.
+
+Zu den verbreitesten Sprachen zählen
+
+* ESC/P (Epson)
+* PostScript (Adobe)
+* PCL (Hewlett-Packard)
+* GDI (Microsoft)
+* HP-GL, HP-GL/2 (Hewlett-Packard)
+* Portable Document Format (PDF)
+* Variable Print Specification (VPS) (Weiterentwicklung von PostScript)
+* Prescribe II (Kyocera Document Solutions)
+
+Am weitestetn verbreitet sind aber PostScript und das darauf basierende PDF-Format. PostScript ist unter anderem dadurch, dass es gut standarisiert und unterstützt wird eine super Sache für das Drucksystem CUPS.

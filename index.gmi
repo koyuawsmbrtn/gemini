@@ -9,6 +9,7 @@
 It's time to reclaim the internet!
 
 => contact.gmi Contact me
+=> files/ Files
 => https://web.koyu.space Visit my website
 
 ```
