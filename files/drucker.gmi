@@ -10,7 +10,7 @@ CUPS wird von Apple entwickelt und gepflegt und findet in unixoiden Betriebssyst
 
 ### Windows Spooler (Druckdienst)
 
-Dies ist Microsoft's eigene Implementation vom Drucker-Spooler. Dieser unterstützt wie CUPS auch eine Reihe an Druckersprachen, aber auch mehr Drucker. Microsoft ist mit derem eigenen Windows-spezifischen Druckdienst Alleingänger. Deren Druckerdienst hat aber auch massive Probleme mit Sicherheit und Stabilität, Stichwort Printer Nightmare und feststeckende Spooler-Warteschlangen.
+Dies ist Microsoft's eigene Implementation vom Drucker-Spooler. Dieser unterstützt wie CUPS auch eine Reihe an Druckersprachen, aber auch mehr Drucker. Microsoft ist mit derem eigenen Windows-spezifischen Druckdienst Alleingänger. Deren Druckerdienst hat aber auch massive Probleme mit Sicherheit und Stabilität, Stichwort PrintNightmare und feststeckende Spooler-Warteschlangen.
 
 ## Druckertreiber
 
@@ -31,4 +31,9 @@ Zu den verbreitesten Sprachen zählen
 * Variable Print Specification (VPS) (Weiterentwicklung von PostScript)
 * Prescribe II (Kyocera Document Solutions)
 
-Am weitestetn verbreitet sind aber PostScript und das darauf basierende PDF-Format. PostScript ist unter anderem dadurch, dass es gut standarisiert und unterstützt wird eine super Sache für das Drucksystem CUPS.
+Am weitestetn verbreitet sind aber PostScript und das darauf basierende PDF-Format. PostScript ist sehr gut standarisiert und wird von einer breiten Palette an Druckern unterstützt.
+
+## Referenzen
+
+=> https://de.wikipedia.org/wiki/Drucker_(Ger%C3%A4t)#Schnittstelle_mit_dem_Computer
+=> https://www.heise.de/thema/PrintNightmare
