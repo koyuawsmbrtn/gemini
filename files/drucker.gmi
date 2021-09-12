@@ -2,7 +2,7 @@
 
 ## Spooling
 
-Es gibt in modernen Betriebssystemen wie Windows, macOS oder Linux zwei Drucksysteme, von denen eins mal mehr oder weniger gut funktioniert.
+Es gibt in modernen Betriebssystemen wie Windows, macOS oder Linux zwei Drucksysteme, von denen eins mal mehr oder weniger gut funktioniert. Bei analogen Druckern werden die Daten direkt an den Drucker geschickt.
 
 ### CUPS
 
@@ -14,7 +14,7 @@ Dies ist Microsoft's eigene Implementation vom Drucker-Spooler. Dieser unterstü
 
 ## Druckertreiber
 
-Druckertreiber sorgen dafür, dass das Betriebssystem weiß, wie man mit dem Drucker umgehen soll. Dank PostScript ist es relativ einfach für einen Hersteller beispielsweise unter CUPS 
+Druckertreiber sorgen dafür, dass das Betriebssystem weiß, wie man mit dem Drucker umgehen soll. Dank PostScript ist es relativ einfach für einen Hersteller beispielsweise unter CUPS mittels PPD-Dateien seine Treiber zur Verfügung zu stellen. Unter Windows bestehen Druckertreiber wie richtige Treiber aus .ini-, .dll- und .sys-Dateien, also eine Manifest-Datei, die alle Druckerinformationen beinhaltet (INI), die DLL-Dateien, die Programme und das Betriebssystem benötigen, um mit dem Drucker zu sprechen und manchmal ein paar .sys-Dateien, die den eigentlichen Treiber enthalten.
 
 ## Druckersprachen
 
@@ -33,7 +33,15 @@ Zu den verbreitesten Sprachen zählen
 
 Am weitestetn verbreitet sind aber PostScript und das darauf basierende PDF-Format. PostScript ist sehr gut standarisiert und wird von einer breiten Palette an Druckern unterstützt.
 
+## Schnittstellen
+
+Ältere Drucker kommunizieren über die LPT-Schnittstelle oder den seriellen Anschluss. Moderne Drucker können per USB angeschlossen werden und manche unterstützen sogar das Drucken über LAN, WLAN oder Google Cloud Print. Letzteres ist die einzige Schnittstelle, welche auf Chromebooks unterstützt wird.
+
 ## Referenzen
 
 => https://de.wikipedia.org/wiki/Drucker_(Ger%C3%A4t)#Schnittstelle_mit_dem_Computer
 => https://www.heise.de/thema/PrintNightmare
+=> https://webdots.cc/windows-druckerwarteschlange-manuell-leeren-loeschen/
+=> https://www.cups.org/doc/postscript-driver.html
+=> https://support.google.com/chromebook/answer/7225252?hl=de
+=> https://docs.microsoft.com/en-us/windows-hardware/drivers/print/printer-inf-file-entries
