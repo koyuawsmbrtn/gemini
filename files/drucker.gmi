@@ -37,6 +37,10 @@ Am weitestetn verbreitet sind aber PostScript und das darauf basierende PDF-Form
 
 Ältere Drucker kommunizieren über die LPT-Schnittstelle oder den seriellen Anschluss. Moderne Drucker können per USB angeschlossen werden und manche unterstützen sogar das Drucken über LAN, WLAN oder Google Cloud Print. Letzteres ist die einzige Schnittstelle, welche auf Chromebooks unterstützt wird.
 
+## Der LPT1-Bug
+
+Da in MS-DOS früher der Pfad LTP0, LPT1 usw. für LPT-Drucker reserviert war kann man in Windows Dateien oder Ordner nicht mehr danach benennen.
+
 ## Referenzen
 
 => https://de.wikipedia.org/wiki/Drucker_(Ger%C3%A4t)#Schnittstelle_mit_dem_Computer
@@ -46,3 +50,4 @@ Am weitestetn verbreitet sind aber PostScript und das darauf basierende PDF-Form
 => https://support.google.com/chromebook/answer/7225252?hl=de
 => https://docs.microsoft.com/en-us/windows-hardware/drivers/print/printer-inf-file-entries
 => gemini://chris.vittal.dev/rfcs/txt/rfc2346.txt
+=> https://www.howtogeek.com/fyi/windows-10-still-wont-let-you-use-these-file-names-reserved-in-1974/
