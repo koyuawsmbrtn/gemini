@@ -45,3 +45,4 @@ Am weitestetn verbreitet sind aber PostScript und das darauf basierende PDF-Form
 => https://www.cups.org/doc/postscript-driver.html
 => https://support.google.com/chromebook/answer/7225252?hl=de
 => https://docs.microsoft.com/en-us/windows-hardware/drivers/print/printer-inf-file-entries
+=> gemini://chris.vittal.dev/rfcs/txt/rfc2346.txt
