@@ -1,8 +1,8 @@
 # Drucker Spooling, Schnittstellen, Treiber und Sprachen
 
-=> ibm-pc_printer.jpg IBM PC with printer _right
-
 ## Spooling
+
+=> ibm-pc_printer.jpg IBM PC with printer _right
 
 Es gibt in modernen Betriebssystemen wie Windows, macOS oder Linux zwei Drucksysteme, von denen eins mal mehr oder weniger gut funktioniert. Bei analogen Druckern werden die Daten direkt an den Drucker geschickt.
 
