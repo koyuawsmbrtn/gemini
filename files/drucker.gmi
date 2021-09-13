@@ -1,6 +1,6 @@
 # Drucker Spooling, Schnittstellen, Treiber und Sprachen
 
-=> ibm-pc_printer.jpg
+=> ibm-pc_printer.jpg IBM PC with printer _right
 
 ## Spooling
 
