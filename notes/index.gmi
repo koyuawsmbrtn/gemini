@@ -1,0 +1,16 @@
+# Notes and Documentation
+
+These are things I have written down so I don't forget them. You can try these out as well.
+
+=> bookmarks.gmi Bookmarks
+=> books-and-anime.gmi Books and Anime
+=> https://web.koyu.space/setup/ Current tech setup and lifestyle
+=> https://web.koyu.space/fedilist/ Fediverse server list
+=> xbox.gmi Xbox
+=> overwatch-linux.gmi Getting the latest Overwatch to run on Linux again
+=> https://tilde.club~koyu Radio show archive
+
+## Gemini exclusive notes (German)
+
+=> ../files/drucker.gmi Drucker Spooling, Schnittstellen, Treiber und Sprachen (als Teil einer Schularbeit)
+=> scharfe-chili-bolognese-mit-nudeln.gmi Scharfe Chili-Bolognese mit Nudeln

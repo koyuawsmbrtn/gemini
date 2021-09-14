@@ -1,0 +1,7 @@
+# Bookmarks
+
+=> gemini://gem.chriswere.uk Chris Were
+=> gemini://hexdsl.co.uk HexDSL
+=> gemini://friendo.monster Friendo aka Drew
+=> gemini://koyu.space/pukima/ Pukima
+=> https://tilde.club/~snowdusk/ Snowdusk
