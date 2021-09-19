@@ -1,0 +1,81 @@
+# VMware vSphere
+
+## Projekt
+
+Aufgrund der limtierten Zeit wird das Projekt etwas gekürzt. Mehr Details folgen.
+
+### 1. Aufbau einer Test Hardwareumgebung 
+* 2 Dell / Lenovo Server (inkl. BIOS Update  + Raid Config Raid 1 Min) 
+* 2 Cisco Switche
+* Mit der Verkürzung: nur Verkabelung
+
+```
+--- Bis hier wurde das Projekt gekürzt
+```
+
+* Storage Server (ggf. NAS)
+* Redundante Verkabelung 
+
+### 2. Installation + Konfiguration + Update einer VMware vSphere Umgebung
+
+* Einrichtung 2x Cisco Switche IOS ( inkl. "Uplink" ) bez. Redundanz 
+* 2x ESX Server(inkl. redundanter Netzwerk Config, vSwitche usw)
+* Win oder Linux DNS
+* vCenter als VM Appliance 
+* 1x Windows 2012 VM
+* 1x SLES12 VM
+* Die VM sollen untereinander "anpingbar" sein(ggf. Putty Client Verbindung Windows -> Linux vorstellen)
+* Einrichtung von Cluster HA ( aus den beiden ESX Server ) 
+* Einrichtung von DRS
+* Konfiguration vMotion
+
+```
+--- Bis hier wurde das Projekt gekürzt
+```
+
+* Einrichtung lokaler Datastores
+* Einrichtung Remote Datastore(1x)
+* Redundante "Auslegung" des "Storage Servers"
+* Profile, Startreihenfolgen, Affinity rules, Storage DRS, Resource Pools
+* Failoverszenarien vorstellen (Server HW + Switch HW + Kabel usw)
+
+## Notizen
+
+### Installation
+
+Die Installation scheint recht simpel zu sein. Ein Handbuch findet man unten in den Referenzen. [1]
+
+### VMware DRS
+
+Vom Thomas-Krenn-Wiki: [2]
+
+> VMware Distributed Resource Scheduler (DRS) überwacht kontinuierlich die Ressourcenauslastung über Ressourcen-Pools hinweg und sorgt für eine intelligente Verteilung der verfügbaren Ressourcen auf die virtuellen Maschinen.
+> Dazu ein einfaches Beispiel: ein DRS Cluster besteht aus drei Servern. Diese sind aktuell unterschiedlich ausgelastet (z.B. Server 1 zu 20%, Server 2 zu 30% und Server 3 zu 90%). DRS verschiebt darauf unterbrechungsfrei einzelne virtuelle Maschinen mittels VMotion von Server 3 auf die anderen beiden Server. Dadurch werden die vorhandenen Server-Ressourcen optimal ausgenutzt.
+
+### vMotion
+
+Bedingt den Einsatz von vCenter und shared Storage (NFS, iSCSI, SAN). Ermöglicht den unterbrechungslosen Umzug von laufenden virtuellen Maschinen zwischen verschiedenen vSphere-Servern, zum Beispiel bei notwendiger Hardware-Wartung oder zur manuellen Lastverteilung. [3]
+
+### Datastores
+
+VMware vSphere speichert virtuelle Maschinen in sogenannten Datastores und dort in Verzeichnissen. Die wichtigsten Dateien sind Konfigurationsdateien (*.vmx) und virtuelle Festplatten (*.vmdk). Als Datastores kommen NFS-Shares oder Festplatten zum Einsatz. Letztere können lokale Festplatten oder über ein SAN (via HBA oder iSCSI) bereitgestellte LUN sein. Festplatten werden bei der Erstellung eines Datastore mit dem VMware-Dateisystem VMFS formatiert. [3]
+
+### Affinity-Rules
+
+DRS versucht, bestimmte VMs auf demselben Host zusammenzuhalten. Diese Regeln werden häufig in Systemen mit mehreren virtuellen Maschinen verwendet, um den Datenverkehr zwischen virtuellen Maschinen zu lokalisieren. [4]
+
+### HA-Cluster
+
+Von der VMware vSphere Produktdokumentation: [5]
+
+> vSphere HA arbeitet im Kontext eines Clusters von ESXi-Hosts (oder Legacy ESX-Hosts). Sie müssen ein Cluster erstellen, Hosts hinzufügen und vSphere HA-Einstellungen konfigurieren, bevor der Failover-Schutz eingerichtet werden kann.
+> Wenn Sie einen vSphere HA-Cluster erstellen, müssen Sie mehrere Einstellungen konfigurieren, die festlegen, wie die Funktion funktioniert. Identifizieren Sie zuvor die Knoten Ihres Clusters. Diese Knoten sind die ESXi-Hosts, die die Ressourcen für virtuelle Maschinen bereitstellen und von vSphere HA verwendet werden, um Failover-Schutz zu bieten. Legen Sie daraufhin fest, wie diese Knoten miteinander und mit dem gemeinsam genutzten Speicher verbunden werden sollen, auf dem sich die Daten Ihrer virtuellen Maschine befinden. Wenn sich diese Netzwerkarchitektur an Ort und Stelle befindet, können Sie die Hosts zum Cluster hinzufügen und das Konfigurieren von vSphere HA abschließen.
+> Sie können vSphere HA aktivieren und konfigurieren, bevor Sie Hostknoten zum Cluster hinzufügen. Ihr Cluster ist jedoch vor dem Hinzufügen der Hosts nicht voll funktionsfähig und manche Clustereinstellungen sind nicht verfügbar. Beispielsweise ist die Richtlinie für die Zugangssteuerung „Failover-Host angeben“ nicht verfügbar, bis es einen Host gibt, der als Failover-Host ausgewählt werden kann. 
+
+## Referenzen
+
+=> https://docs.vmware.com/en/VMware-vSphere/6.7/vsphere-esxi-67-installation-setup-guide.pdf [1] https://docs.vmware.com/en/VMware-vSphere/6.7/vsphere-esxi-67-installation-setup-guide.pdf
+=> https://www.thomas-krenn.com/de/wiki/VMware_DRS_(Distributed_Resource_Scheduler) [2] https://www.thomas-krenn.com/de/wiki/VMware_DRS_(Distributed_Resource_Scheduler)
+=> https://de.wikipedia.org/wiki/VMware_vSphere#vMotion [3] https://de.wikipedia.org/wiki/VMware_vSphere
+=> https://geek-university.com/vmware-esxi/drs-affinity-rules/ [4] https://geek-university.com/vmware-esxi/drs-affinity-rules/
+=> https://docs.vmware.com/de/VMware-vSphere/7.0/com.vmware.vsphere.avail.doc/GUID-E90B8A4A-BAE1-4094-8D92-8C5570FE5D8C.html [5] https://docs.vmware.com/de/VMware-vSphere/7.0/com.vmware.vsphere.avail.doc/GUID-E90B8A4A-BAE1-4094-8D92-8C5570FE5D8C.html
