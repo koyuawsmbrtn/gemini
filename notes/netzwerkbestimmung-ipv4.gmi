@@ -35,24 +35,14 @@ auf.        ^              ^
                    /24 = CIDR-Notation
 
 
-2.) max. Geräteanzahl (Hostanzahl)
-2^8 = 256
-	- Netzadresse (NID)			}
-	  (wird für's Routing benötigt)		}  Keine
-	- Broadcastadresse (BC)			}  Host-
-	  (wird für Anmeldeprozess benötigt)	}  adressen
+2.) max. Geräteanzahl (Hostanzahl)				3.) Netzadresse: alle Hostbits = 0
 
-     = 254
-
-
-3.) Netzadresse: alle Hostbits = 0
-
-10.90.90.131
-.. .. .. xxx
-         10000011
-             | 0
-             V
-          00000000
-10.90.90.0
-==========
+2^8 = 256						 --------- 10.90.90.131
+	- Netzadresse (NID)                     }   <----|	.. .. .. xxx
+	  (wird für's Routing benötigt)		} Keine Host-            10000011
+	- Broadcastaddresse (BC)		} addressen	             | 0
+	  (wird für Anmeldeprozess benötigt)	}		             V
+								          00000000
+	   = 254							10.90.90.0
+									==========
 ```
