@@ -1,0 +1,8 @@
+# Netzwerkbestimmung IPv4
+
+```Aufgabenstellung
+gegeben IPv4-Adresse + Subnetzmaske dezimal
+gesucht: SM in CIDR-Notation, Netzadresse, erste
+Hostadresse, Broadcastadresse, letzte Host-
+adresse, max. Hostanzahl
+```
