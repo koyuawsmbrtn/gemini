@@ -38,13 +38,13 @@ auf.        ^              ^
 2.) max. Geräteanzahl (Hostanzahl)				3.) Netzadresse: alle Hostbits = 0
 
 2^8 = 256						 --------- 10.90.90.131
-	- Netzadresse (NID)                     }   <----|	.. .. .. xxx
+	- Netzadresse (NID)                     }   <----|	   .. .. .. xxx
 	  (wird für's Routing benötigt)		} Keine Host-            10000011
 	- Broadcastaddresse (BC)		} addressen	             | 0
 	  (wird für Anmeldeprozess benötigt)	}		             V
 								          00000000
-	   = 254							10.90.90.0
-									==========
+	   = 254						         10.90.90.0
+									 ==========
 								4.) erste Hostaddresse =
 								    NID + 1
 								10.90.90.1
