@@ -15,3 +15,4 @@ These are things I have written down so I don't forget them. You can try these o
 => ../files/drucker.gmi Drucker Spooling, Schnittstellen, Treiber und Sprachen (als Teil einer Schularbeit)
 => scharfe-chili-bolognese-mit-nudeln.gmi Scharfe Chili-Bolognese mit Nudeln
 => vsphere.gmi VMware vSphere
+=> netzwerkbestimmung-ipv4.gmi Netzwerkbestimmung IPv4
