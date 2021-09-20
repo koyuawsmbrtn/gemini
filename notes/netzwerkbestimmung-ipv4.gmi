@@ -1,8 +1,36 @@
 # Netzwerkbestimmung IPv4
 
-```Aufgabenstellung
-gegeben IPv4-Adresse + Subnetzmaske dezimal
+```
+Aufgabenstellung: #
+gegeben: IPv4-Adresse + Subnetzmaske dezimal
 gesucht: SM in CIDR-Notation, Netzadresse, erste
 Hostadresse, Broadcastadresse, letzte Host-
 adresse, max. Hostanzahl
+                ^
+                |
+             Netzwerkgerät mit IP-Adresse
+
+in 6 Schritten
+z.B. 10.90.90.131
+255.255.255.0
+
+1.) Subnetzmaske in CIDR - Notation
+                     ^           ^
+                     |           |
+Classless Inter Domain Routing  Schreibweise
+-         -     -      -
+
+Subnetzmaske teilt eine IPv4-
+Adresse in Netz- u. Hostanteil
+auf.        ^              ^
+            |              |
+     Netzaddressierung  Hostaddressierung
+     .................  xxxxxxxxxxxxxxxxx
+
+
+255.255.255.0 = /24
+11111111.11111111.111111111.00000000
+........ ........ ......... xxxxxxxx
+        24 Netzbits        8 Hostbits
+                   /24 = CIDR-Notation
 ```
