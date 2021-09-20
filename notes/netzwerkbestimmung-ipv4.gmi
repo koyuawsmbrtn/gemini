@@ -1,7 +1,7 @@
 # Netzwerkbestimmung IPv4
 
 ```
-Aufgabenstellung: #
+Aufgabenstellung:
 gegeben: IPv4-Adresse + Subnetzmaske dezimal
 gesucht: SM in CIDR-Notation, Netzadresse, erste
 Hostadresse, Broadcastadresse, letzte Host-
@@ -45,4 +45,24 @@ auf.        ^              ^
 								          00000000
 	   = 254							10.90.90.0
 									==========
+								4.) erste Hostaddresse =
+								    NID + 1
+								10.90.90.1
+								==========
+								wird meistens für das Gateway benutzt
+								= Routen für Wege aus eigenem Netz
+
+5.) BC => alle Hostbits = 1
+    10.90.90.131
+    .. .. .. xxx
+             10000011
+              |
+              V
+             11111111
+    10.90.90.255
+
+6.) Letzte Hostaddresse:
+    BC - 1
+    10.90.90.254
+    ============
 ```
