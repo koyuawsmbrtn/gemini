@@ -4,4 +4,4 @@
 => gemini://hexdsl.co.uk HexDSL
 => gemini://friendo.monster Friendo aka Drew
 => gemini://koyu.space/pukima/ Pukima
-=> https://tilde.club/~snowdusk/ Snowdusk
+=> https://snowdusk.sdf.org Snowdusk
