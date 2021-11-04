@@ -1,7 +1,6 @@
 # Contact
 
-Mail: me@koyu.space
-
-Fedi: @koyuchan@koyu.space
-
-Telegram and Xbox (proprietary and centralized): bubblineyuri
+* Mail: me@koyu.space
+* Fedi: @koyuchan@koyu.space
+* Telegram and Xbox (proprietary and centralized): bubblineyuri
+* PGP: 8cac14db5e1c9fa2
