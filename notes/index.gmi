@@ -4,7 +4,6 @@ These are things I have written down so I don't forget them. You can try these o
 
 => bookmarks.gmi Bookmarks
 => books-and-anime.gmi Books and Anime
-=> https://web.koyu.space/setup/ Current tech setup and lifestyle
 => https://web.koyu.space/fedilist/ Fediverse server list
 => xbox.gmi Xbox
 => overwatch-linux.gmi Getting the latest Overwatch to run on Linux again
