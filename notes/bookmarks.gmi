@@ -5,3 +5,5 @@
 => gemini://friendo.monster Friendo aka Drew
 => gemini://koyu.space/pukima/ Pukima
 => gemini://tilde.pink/~kubikpixel/ kubikpixel
+=> gemini://station.martinrue.com/ Station
+=> gemini://retrace.club/~mycorrhiza/ mycorrhiza
