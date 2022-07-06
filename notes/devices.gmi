@@ -1,8 +1,8 @@
 # Devices and OSses
 
-- ThinkPad X220: Pop!_OS 22.04 with custom fixes applied
+- ThinkPad X220: Fedora Workstation
 - Custom rig (GTX 750, 16GB RAM, AMD fx-8320, 2x 1TB HDD, 2x 250GB SSD): Windows 10 Pro
-- Nexus 5: Custom build of LineageOS 18.1
+- Nokia G21 with Android 11
 - Xbox Series S, Nintendo Switch lite
 - Google Home mini (1st gen)
 - Sony CMT EH-25 sound system
