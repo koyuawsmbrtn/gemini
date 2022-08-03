@@ -1,6 +1,7 @@
 # Contact
 
 * E-Mail/XMPP: me@koyu.space
-* Fediverse: @koyuchan@koyu.space
-* Telegram/Xbox (proprietary and centralized): bubblineyuri
+* Fediverse: @koyu@fedi.koyu.space
+* Matrix: @koyu:mozilla.org
+* Snapchat/Xbox (proprietary and centralized): bubblineyuri
 * PGP: 8cac14db5e1c9fa2
