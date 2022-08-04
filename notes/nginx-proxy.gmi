@@ -1,0 +1,38 @@
+# Configuring an nginx reverse proxy
+
+Put this into something like /etc/nginx/sites-enabled/yoursite and test the config with sudo nginx -t. If everything passed reload nginx with sudo systemctl reload nginx.
+
+```
+server {
+
+	listen 443;
+
+	index index.html index.htm index.nginx-debian.html;
+
+	server_name example.com;
+
+	location / {
+        client_max_body_size 200M;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+		proxy_pass http://localhost:3000;
+	}
+
+    include /etc/letsencrypt/options-ssl-nginx.conf;
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+
+
+    ssl_certificate /etc/letsencrypt/live/example.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/example.com/privkey.pem; # managed by Certbot
+}
+
+server {
+    if ($host = $host) {
+        return 301 https://$host$request_uri;
+    }
+    server_name $host;
+    return 404;
+}
+```
