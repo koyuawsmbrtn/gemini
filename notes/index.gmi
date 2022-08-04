@@ -7,6 +7,7 @@ These are things I have written down so I don't forget them. You can try these o
 => https://web.koyu.space/fedilist/ Fediverse server list
 => xbox.gmi Xbox
 => overwatch-linux.gmi Getting the latest Overwatch to run on Linux again
+=> nginx-proxy.gmi Configuring an nginx reverse proxy
 => https://tilde.club/~koyu/ Radio show archive
 
 ## Gemini exclusive notes
