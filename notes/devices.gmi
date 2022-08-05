@@ -1,7 +1,7 @@
 # Devices and OSses
 
-- ThinkPad X220: Fedora Workstation
-- Custom rig (GTX 750, 16GB RAM, AMD fx-8320, 2x 1TB HDD, 2x 250GB SSD): Windows 10 Pro
+- ThinkPad X220: Alpine Linux
+- Custom rig (GTX 750, 16GB RAM, AMD fx-8320, 2x 1TB HDD, 2x 250GB SSD): Windows 11 Pro
 - Nokia G21 with Android 11
 - Xbox Series S, Nintendo Switch lite
 - Google Home mini (1st gen)
