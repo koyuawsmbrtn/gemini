@@ -1,7 +1,7 @@
 # Contact
 
 * E-Mail/XMPP: me@koyu.space
-* Fediverse: @koyu@fedi.koyu.space
-* Matrix: @koyu:mozilla.org
+* Fediverse: @koyu@koyu.space
 * Snapchat/Xbox (proprietary and centralized): bubblineyuri
+* Signal: +4915207412666
 * PGP: 8cac14db5e1c9fa2

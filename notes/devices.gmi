@@ -1,14 +1,5 @@
 # Devices and OSses
 
-- ThinkPad X220: Alpine Linux
-- Custom rig (GTX 750, 16GB RAM, AMD fx-8320, 2x 1TB HDD, 2x 250GB SSD): Windows 11 Pro
+- ThinkPad T460s: Windows 11 Pro
 - Nokia G21 with Android 11
-- Xbox Series S, Nintendo Switch lite
-- Google Home mini (1st gen)
-- Sony CMT EH-25 sound system
-- Turtle Beach Recon 70X headset
-- Razer Ornata Chroma keyboard (1st gen)
-- Logitech M100 mouse
-- Fujitsu E19-9 monitor
-- Raspberry Pi 3 B+ & 4 (4GB)
-- FRITZ!Box 6660 Cable router
+- Xbox Series S
