@@ -6,7 +6,7 @@
 
 It's time to reclaim the internet!
 
-=> about.gmi 👩🏻‍🦱 About me
+=> about.gmi 👩 About me
 => contact.gmi 📧 Contact me
 => files/ 💾 Files
 => notes/ 📒 Notes
