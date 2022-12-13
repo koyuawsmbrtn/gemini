@@ -1,9 +1,8 @@
 # Bookmarks
 
-=> gemini://gem.chriswere.uk Chris Were
-=> gemini://hexdsl.co.uk HexDSL
-=> gemini://friendo.monster Friendo aka Drew
-=> gemini://koyu.space/pukima/ Pukima
 => gemini://tilde.pink/~kubikpixel/ kubikpixel
 => gemini://station.martinrue.com/ Station
 => gemini://retrace.club/~mycorrhiza/ mycorrhiza
+=> gemini://taz.de taz
+
+Note: If you found interesting things that should land here then tell me. I had to remove half of the links, because a lot of cool people were leaving the Geminispace :(
