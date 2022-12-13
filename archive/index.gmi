@@ -1,5 +1,3 @@
 # Archive
 
 => gemini://koyu.space/rockshow/old.gmi koyu's rock show
-
-=> .. Back to main page
