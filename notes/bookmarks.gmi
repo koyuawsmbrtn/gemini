@@ -5,5 +5,6 @@
 => gemini://retrace.club/~mycorrhiza/ mycorrhiza
 => gemini://taz.de taz
 => gemini://gemini.tuxmachines.org/ Tux Machines
+=> gemini://c3d2.de/ Chaos Computer Club Dresden
 
 Note: If you found interesting things that should land here then tell me. I had to remove half of the links, because a lot of cool people were leaving the Geminispace :(
