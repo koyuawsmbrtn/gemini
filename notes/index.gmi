@@ -10,7 +10,7 @@ These are things I have written down so I don't forget them. You can try these o
 => nginx-proxy.gmi Configuring an nginx reverse proxy
 => https://tilde.club/~koyu/ Radio show archive
 
-## Gemini exclusive notes
+## More notes
 
 ### English
 
