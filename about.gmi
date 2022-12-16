@@ -1,5 +1,7 @@
 # About me
 
+=> me.png Here's a picture of me _right
+
 * Is 23 years old
 * Likes computers and anything above
 * Can read out Brathering without pronouncing it in English
@@ -8,5 +10,3 @@
 * Listens to any music style
 * My brain might crash randomly, because it runs Windows. Sad.
 * Can program in the devil's programming language: JavaScript
-
-=> me.png Here's a picture of me _right
