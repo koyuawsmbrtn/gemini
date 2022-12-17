@@ -1,7 +1,5 @@
 # About me
 
-=> me.png Here's a picture of me _right
-
 * Is 23 years old
 * Likes computers and anything above
 * Can read out Brathering without pronouncing it in English
