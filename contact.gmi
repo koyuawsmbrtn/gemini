@@ -2,5 +2,5 @@
 
 * E-Mail: me@koyu.space
 * Snapchat/Xbox (proprietary and centralized): bubblineyuri
-* Signal: +4915207412666
+* Matrix: @koyu:mozilla.org
 * PGP: 8cac14db5e1c9fa2
