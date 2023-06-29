@@ -1,6 +1,5 @@
 # Contact
 
-* E-Mail: me@koyu.space
-* Snapchat/Xbox (proprietary and centralized): bubblineyuri
-* Matrix: @koyu:mozilla.org
+* E-Mail/Matrix: koyu@koyu.space
+* Fedi: koyu@cutebox.cc
 * PGP: 8cac14db5e1c9fa2
