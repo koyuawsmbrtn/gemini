@@ -1,5 +1,5 @@
 # Contact
 
 * E-Mail/Matrix: koyu@koyu.space
-* Fedi: koyu@cutebox.cc
+* Fedi: koyu@kopimi.space
 * PGP: 8cac14db5e1c9fa2
