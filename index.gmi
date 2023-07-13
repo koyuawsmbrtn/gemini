@@ -6,8 +6,6 @@
 
 It's time to reclaim the internet!
 
-Note: Happy Pride! 🏳️‍🌈️
-
 => about.gmi 👩 About me
 => contact.gmi 📧 Contact me
 => files/ 💾 Files
