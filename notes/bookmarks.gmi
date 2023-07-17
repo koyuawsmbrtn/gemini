@@ -8,3 +8,4 @@
 => gemini://c3d2.de/ Chaos Computer Club Dresden
 => gemini://zaibatsu.circumlunar.space/~solderpunk/ Solderpunk
 => gemini://skyjake.fi skyjake
+=> gemini://tilde.pink/~kubikpixel/ kubikpixel
