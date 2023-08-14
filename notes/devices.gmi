@@ -1,8 +1,9 @@
 # Devices and OSses
 
-- ThinkPad T460s: Linux Mint
+- ThinkPad T460s: Pop!_OS
+- Custom built rig (AMD fx-8320, 16GB RAM, GTX 1660 Super): Atlas OS
 - Nokia G21: Android 13
 - Xbox Series S: Xbox OS
 - Pico Neo Link 3: Pico OS
-- Homebrewed Nintendo 2DS: CitraOS
+- Homebrewed Nintendo 2DS: NATIVE_FIRM/Horizon OS
 - Anbernic RG351P: AmberELEC
