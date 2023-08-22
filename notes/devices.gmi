@@ -6,4 +6,4 @@
 - Xbox Series S: Xbox OS
 - Pico Neo Link 3: Pico OS
 - Homebrewed Nintendo 2DS: NATIVE_FIRM/Horizon OS
-- Anbernic RG351P: AmberELEC
+- Anbernic RG351P: ArkOS Final Edition without Portmaster
