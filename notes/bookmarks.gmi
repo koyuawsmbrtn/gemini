@@ -9,3 +9,4 @@
 => gemini://zaibatsu.circumlunar.space/~solderpunk/ Solderpunk
 => gemini://skyjake.fi skyjake
 => gemini://tilde.pink/~kubikpixel/ kubikpixel
+=> gemini://astrobotany.mozz.us astrobotany
