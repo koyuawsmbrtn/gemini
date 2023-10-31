@@ -4,7 +4,7 @@ These are things I have written down so I don't forget them. You can try these o
 
 => bookmarks.gmi Bookmarks
 => books-and-anime.gmi Books and Anime
-=> https://web.koyu.space/fedilist/ Fediverse server list
+=> https://web.koyu.space/notes/fedilist/ Fediverse server list
 => overwatch-linux.gmi Getting the latest Overwatch to run on Linux again
 => nginx-proxy.gmi Configuring an nginx reverse proxy
 => https://tilde.club/~koyu/ Radio show archive

@@ -2,17 +2,10 @@
 
 ## Projekt
 
-Aufgrund der limtierten Zeit wird das Projekt etwas gekürzt. Mehr Details folgen.
-
 ### 1. Aufbau einer Test Hardwareumgebung 
+
 * 2 Dell / Lenovo Server (inkl. BIOS Update  + Raid Config Raid 1 Min) 
 * 2 Cisco Switche
-* Mit der Verkürzung: nur Verkabelung
-
-```
---- Bis hier wurde das Projekt gekürzt
-```
-
 * Storage Server (ggf. NAS)
 * Redundante Verkabelung 
 
@@ -28,11 +21,6 @@ Aufgrund der limtierten Zeit wird das Projekt etwas gekürzt. Mehr Details folge
 * Einrichtung von Cluster HA ( aus den beiden ESX Server ) 
 * Einrichtung von DRS
 * Konfiguration vMotion
-
-```
---- Bis hier wurde das Projekt gekürzt
-```
-
 * Einrichtung lokaler Datastores
 * Einrichtung Remote Datastore(1x)
 * Redundante "Auslegung" des "Storage Servers"
