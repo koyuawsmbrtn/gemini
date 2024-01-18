@@ -1,9 +1,8 @@
 # Devices and OSses
 
-- ThinkPad T460s: Fedora 38
-- Custom built rig (AMD fx-8320, 16GB RAM, GTX 1660 Super): Windows 10
-- Nokia G21: Android 13
+- ThinkPad T460s: Chrome OS
+- Custom built rig (AMD fx-8320, 16GB RAM, GTX 1660 Super): Arch Linux
+- iPhone 13 (base model, 128GB, midnight black): iOS
 - Xbox Series S: Xbox OS
 - Pico Neo Link 3: Pico OS
 - Homebrewed Nintendo 2DS: NATIVE_FIRM/Horizon OS
-- Anbernic RG351P: Currently without OS
