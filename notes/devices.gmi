@@ -1,8 +1,9 @@
 # Devices and OSses
 
 - ThinkPad T460s: Chrome OS
-- Custom built rig (AMD fx-8320, 16GB RAM, GTX 1660 Super): Arch Linux
+- Custom built rig (AMD fx-8320, 16GB RAM, GTX 1660 Super): Windows 11
 - iPhone 13 (base model, 128GB, midnight black): iOS
 - Xbox Series S: Xbox OS
 - Pico Neo Link 3: Pico OS
 - Homebrewed Nintendo 2DS: NATIVE_FIRM/Horizon OS
+- Playdate: Playdate OS
