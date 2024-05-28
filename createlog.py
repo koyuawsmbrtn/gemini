@@ -20,5 +20,5 @@ for post in posts:
                 title = f.read().split("\n")[0].split("# ")[1]
                 date = post.split("-")[0]
                 date = datetime.datetime.fromtimestamp(int(date)).strftime('%Y-%m-%d')
-                log.write("=> "+post+" "+date+": "+title+"\n")
+                log.write("=> /posts/"+post+" "+date+": "+title+"\n")
     i += 1
