@@ -5,6 +5,11 @@ import os.path
 from md2gemini import md2gemini # type: ignore
 from datetime import date
 
+if os.path.exists("md"):
+    mds = os.listdir("md")
+    for md in mds:
+        os.rename("md/"+md, os.path.join("posts", md))
+
 posts = []
 for file in os.listdir('posts'):
     if file.endswith('.md'):
@@ -24,3 +29,10 @@ for post in posts:
         gemtext = md2gemini(content)
         with open('posts/' + datec + "-"+post.replace('.md', '.gmi'), 'w') as f:
             f.write(gemtext)
+
+if not os.path.exists("md"):
+    os.mkdir("md")
+posts = os.listdir("posts")
+for post in posts:
+    if post.endswith('.md'):
+        os.rename("posts/"+post, os.path.join("md", post))

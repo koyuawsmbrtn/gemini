@@ -1,0 +1,15 @@
+# The power of decentralization
+
+So before Signal went down we were having some great discussions in our koyu.space Signal group. Now it&#8217;s been more than 24 hours since it&#8217;s down and this thanks to this guy.
+
+```html
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Use Signal</p>&mdash; Elon Musk on Twitter (@elonmusk) <a href="https://twitter.com/elonmusk/status/1347165127036977153?ref_src=twsrc%5Etfw">January 7, 2021</a></blockquote>
+```
+
+So why does decentralization matter? Well, it reduces the amount of friction if you want something that works reliably. For example if your server goes down one day, then you are the one you could point your fingers at. This makes such a network ultra-reliable if a user could just jump to the next available server. I think centralization of a network and therefore of power was never a great idea.
+
+This is what I liked about the 90s web. Everyone was basically forced to have their own website and therefore compete with their raw information they shared. Blogs were ultra-popular until the early 2010s and I really liked it to read my favourite blogs, especially taking care of RSS Feed lists in my feedreader. This was way better than Facebook, Twitter and the sorts.
+
+Then we also have the fediverse which is exchanging data all over the place. The cool thing about the fediverse is that information is getting spread across different servers (Mastodon for example caches text content from remote servers) and websites can intercommunicate with each other. This was the internet I was dreaming of when I was reading blogs most of the time. Being now a blog-owner myself would make me very proud if we had more people hosting a blog and sharing their ideas on the internet.
+
+In the end nobody would really listen to me, but imagine what a wonderful world the internet could be if everyone had their own little space they own and control and host everything on their own.

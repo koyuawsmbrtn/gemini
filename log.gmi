@@ -1,2 +1,27 @@
 # Log
 
+=> 1714687200-2ds-modding.gmi 2024-05-03: Homebrewing my 2DS
+=> 1707174000-maybe-no-mp02.gmi 2024-02-06: Maybe the Punkt. MP02 isn't really something for me
+=> 1706569200-shifting-life-mp02.gmi 2024-01-30: Shifting to a more minimal life with the Punkt. MP02
+=> 1705705200-germany-hates-the-afd.gmi 2024-01-20: Germany hates the AfD
+=> 1699916400-fediverse-democracy.gmi 2023-11-14: Empowering the Web - Mastodon and the Fediverse for Digital Democracy
+=> 1688508000-dotart-is-not-a-safespace.gmi 2023-07-05: mastodon.art is not a safespace
+=> 1686520800-mastodon-admin-journey.gmi 2023-06-12: Reflecting on my journey as a Mastodon admin - Prioritizing self-care and growth
+=> 1675810800-mastodons-legacy.gmi 2023-02-08: Mastodon's legacy on the internet
+=> 1639350000-eu-interoperability.gmi 2021-12-13: "The EU's thoughts about Messenger interoperability is good if handled correctly"
+=> 1637622000-speeding-up-linux-startup-and-shutdown.gmi 2021-11-23: "Speeding Up Linux Startup and Shutdown"
+=> 1637535600-vidar-stealer-2021.gmi 2021-11-22: "Security notice: Vidar Stealer abuses the Mastodon social network"
+=> 1637103600-is-gnome-really-that-bad.gmi 2021-11-17: Is GNOME really that bad?
+=> 1636412400-nft-metaverse.gmi 2021-11-09: Why NFTs, Metaverse and all that doesn't matter
+=> 1633298400-facebook-down-why-decentralisation-matters.gmi 2021-10-04: Facebook down? Why decentralisation matters
+=> 1629669600-fortnite.gmi 2021-08-23: Creative expression through Fortnite
+=> 1625004000-windows-11.gmi 2021-06-30: Windows 11…
+=> 1621980000-getting-the-corona-warn-app-and-similar-to-run-on-e-os.gmi 2021-05-26: Getting the Corona Warn-App (and similar) to run on /e/OS
+=> 1620684000-the-ly-display-manager.gmi 2021-05-11: The ly display manager
+=> 1615158000-why-i-like-the-fediverse.gmi 2021-03-08: Why I like the fediverse
+=> 1612479600-exploring-gemini.gmi 2021-02-05: Exploring Gemini
+=> 1610751600-the-power-of-decentralization.gmi 2021-01-16: The power of decentralization
+=> 1604444400-rambling-about-linux-vs-windows.gmi 2020-11-04: Rambling about Linux vs. Windows
+=> 1604185200-how-to-plan-and-host-a-mastodon-instance.gmi 2020-11-01: How to plan and host a Mastodon instance
+=> 1595455200-how-to-compile-butt-on-solus.gmi 2020-07-23: How to compile butt on Solus
+=> 1561240800-a-quick-introduction-to-the-fediverse.gmi 2019-06-23: A quick introduction to the Fediverse
