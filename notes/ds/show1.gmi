@@ -21,7 +21,7 @@
 | Groove District        | Starjunk 95      | Groove District         |
 | Finger on the Trigger  | Jak3 / Trashman  | Hellworld               |
 | EMERALD HANDS          | black balloons   | dreamscape              |
-| C3L3STIAL_CITY         | bliss3three      | C3L3STIAL天の             |
+| C3L3STIAL_CITY         | bliss3three      | C3L3STIAL天の            |
 | My Head Hurts          | strxwberrymilk   | Music for Awkward Dates |
 | EARTHBOUND             | black balloons   | dreamscape              |
 | FINAL FANTASY          | black balloons   | FINAL FANTASY           |

@@ -1,9 +1,10 @@
 # Devices and OSses
 
-- ThinkPad T460s: Chrome OS
-- Custom built rig (AMD fx-8320, 16GB RAM, GTX 1660 Super): Windows 11
+- ThinkPad T460s: Manjaro KDE
+- Mac mini (mid-2010): macOS High Sierra, used as a server
+- Custom built rig (AMD fx-8320, 16GB RAM, GTX 1660 Super): Manjaro KDE
 - iPhone 13 (base model, 128GB, midnight black): iOS
 - Xbox Series S: Xbox OS
 - Pico Neo Link 3: Pico OS
 - Homebrewed Nintendo 2DS: NATIVE_FIRM/Horizon OS
-- Playdate: Playdate OS
+- Playdate: Playdate OS 2.5.0
