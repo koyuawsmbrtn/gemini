@@ -1,0 +1,23 @@
+# Update root certificates on Windows XP
+
+Get rvkroots.exe (Google), extract updroots.exe from it and put it in some folder. Get curl and unpack in the same folder. Then you just run the following batch file:
+
+=> https://rwijnsma.home.xs4all.nl/files/curl/curl-7.69.1-mbedtls-zlib-win32-static-xpmod-sse.7z Curl for Windows Xp
+
+
+```
+curl -O http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authroots.sst
+curl -O http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/delroots.sst
+curl -O http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcert.sst
+curl -O http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/roots.sst
+curl -O http://www.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/updroots.sst
+updroots authroots.sst
+updroots updroots.sst
+updroots -l roots.sst
+updroots -d delroots.sst
+updroots -l -u disallowedcert.sst
+```
+
+Done, takes 20 seconds to update, no complicated nonsense like they do elsewhere on the internet. ;)
+
+You need Updroots.exe from one of the unofficial SP’s for 98SE or ME. It is inside ROOTSUPD.cab in UMECU105A.

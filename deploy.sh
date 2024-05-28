@@ -6,5 +6,6 @@ git push
 cd ..
 cd web
 git commit --allow-empty -m "Deploy"
+git push
 cd ..
 cd gemini

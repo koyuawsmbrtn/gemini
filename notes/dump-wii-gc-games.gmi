@@ -1,0 +1,41 @@
+# Dumping Wii and GameCube Games
+
+This guide shows you how to properly dump your Wii or GameCube (GC) games using CleanRip. For example I had to dump a copy of Super Mario Sunshine to get some mods working.
+
+Note: It's entirely legal to dump your own games and play them either on the original hardware or using an emulator like Dolphin. You own the game after all.
+
+## Requirements
+
+=> https://wii.guide A homebrewed Wii console</a>
+=> https://github.com/emukidid/cleanrip/releases/latest A copy of CleanRip
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB when copying a dual layer disc).
+
+## Guide
+
+### Step 1: Download and install
+
+1. Unzip CleanRip and move it to the `apps` folder on your SD card.
+2. Insert your SD card into your Wii and launch CleanRip from the Homebrew Channel.
+
+### Step 2: Copy
+
+1. Choose the device you want to copy the game to - your USB drive or SD card.
+=> /wii-dump-guide/1.png Choosing a drive prompt
+
+2. The screen will ask if you want to download a file with checksums so you can make sure a full copy of the disc was made. It is your decision to answer yes or no to the question about downloading the file.
+=> /wii-dump-guide/2.png Deciding wether to download the checksum file or not
+
+3. Now insert the disc you want to copy.
+=> /wii-dump-guide/3.png CleanRip asking to insert a disc
+=> /wii-dump-guide/4.png CleanRip initialising the disc
+
+Warning: If you copy one of the 13 games on the list, choose dual layer if CleanRip asks you about it.
+=> https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games A list of dual layer games
+
+4. Set everything up like below
+=> /wii-dump-guide/5.png CleanRip disc setup
+
+5. CleanRip will now copy your game. This may take a while as it copies the full 4.7GB of content from the disc (9.4GB on dual layer discs). If you dump a GameCube disc it should take a lot less due to the fixed size of 1.46GB on GameCube discs. Since GameCube ISOs would be less than 4GB in total you can keep them on your SD card, because FAT32 only allows less than 4GB in single file size and CleanRip works best with FAT32, even though NTFS support has been fixed. Make sure you got enough space left on your destination drive or the dump will fail.
+=> /wii-dump-guide/6.png CleanRip copying a Wii/GameCube disc
+
+Done! Have fun playing your freshly dumped game either on the console or an emulator. You can go and dump your entire library if you want, in case your Wii or discs are getting damaged.

@@ -1,0 +1,19 @@
+# Portfolio
+
+## Working
+
+=> https://litterbox.koyu.space Litterbox – A cute fediverse client that is simple yet powerful
+=> https://github.com/koyuawsmbrtn/bbz-cloud BBZ Cloud – An All-In-One electron app for school-related services
+=> https://jasonb.de Jason Lee Bärwald – Linktree-like website
+=> https://spatialwebdesign.com Spatial Webdesign – Webdesign agency
+
+## Past
+
+=> https://koyu.space koyu.space Mastodon – A Mastodon instance to hang out with your friends
+=> https://github.com/koyuspace/wpup wpup – WordPress mass upgrading tool
+=> https://fossil.koyu.space Fossil – Gemini client written in Vala and GTK
+=> https://github.com/koyuspace/kimchi Kimchi – Server management tool written in Vue and Express
+=> https://github.com/koyuspace/e43 E43 – Telegram bot with various functions
+=> https://servbyte.eu ServUI – Control Panel for the ServByte hosting company
+=> https://gemproxy.koyu.space GemProxy – Yet another Gemini proxy service
+=> https://wintools.koyu.space Wintools – Windows 10/11 un-crap tool

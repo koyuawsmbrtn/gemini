@@ -10,3 +10,7 @@
 => gemini://skyjake.fi skyjake
 => gemini://tilde.pink/~kubikpixel/ kubikpixel
 => gemini://astrobotany.mozz.us astrobotany
+=> https://pukima.site Pukima
+=> https://tilde.club/~snowdusk/ Snowdusk
+=> https://archlinux.org/mirrorlist/ Arch Linux Mirrorlist generator
+=> https://wiby.me wiby.me small web search engine
