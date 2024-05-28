@@ -1,0 +1,25 @@
+---
+title: "The EU's thoughts about Messenger interoperability is good if handled correctly"
+pubDate: 2021-12-13T12:33:28+01:00
+author: koyu
+image: 1608817576203-3c27ed168bd2
+type: post
+---
+
+The EU wants to make messaging services like WhatsApp, Telegram, Facebook Messenger, Teams, Element, Signal etc. interoperable meaning that a seemless communication between those services would be possible. This sounds great at first, because you only need one app and nothing else, but if not handled correctly this might end up in the same mess we're finding us in today. Cryptocurrencies can't be the answer as well [for obvious reasons](/why-ai-cryptocurrency-metaverse-and-all-that-crap-doesnt-matter/).
+
+## Introducing Matrix
+
+[Matrix](https://matrix.org) does one thing differently than the others: federation and bridging. You can literally bridge all your favourite chat apps into one app and have only one app that rules them all. It's also fairly [easy](https://t2bot.io) to set up. If you're hosting your own server, hosting a bridge is as easy as setting up a Docker container and add one line to a config file.
+
+## Why Matrix?
+
+Matrix has been in use in governments for a long time and individual users can try it out as well. The problem is that there's no way to convince the average user switching away from centralised messaging platforms like WhatsApp. Full data suvereignity ensures data protection, security and privacy. Also it's kinda cool telling your friends that you host a messaging platform.
+
+## State surveillance
+
+Since most of those messaging services aren't end-to-end encrypted -- or misleadingly claim end-to-end encryption -- using Matrix would enforce end-to-end encryption. Safely backing up your keys would also work since Matrix also allows that. This ensures nobody on earth (including governments) can read your chats.
+
+## Conclusion
+
+The EU wanting to make messaging services to interoperate sounds like a great idea if it doesn't get lobbied to hell with protocols nobody uses or wants to use. Matrix might be the answer to our "I have 20 messaging apps for 20 people"-problem if the EU ever considers that as an official standard.

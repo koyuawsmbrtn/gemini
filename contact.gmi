@@ -1,5 +1,6 @@
 # Contact
 
-* E-Mail/XMPP: koyu@koyu.space
-* Fedi: koyu@kopimi.space
+* E-Mail: me@koyu.space
+* Fedi: @koyu@kopimi.space
+* Signal: bubblineyuri.16
 * PGP: 8cac14db5e1c9fa2

@@ -10,18 +10,4 @@ It's time to reclaim the internet!
 => contact.gmi 📧 Contact me
 => files/ 💾 Files
 => notes/ 📒 Notes
-=> gemlog/ 📓 Gemlog
-=> archive/ 🗄️ Archive
-
-```
-
-                 *       +
-           '                  |
-       ()    .-.,="``"=.    - o -
-             '=/_       \     |
-          *   |  '=._    |
-               \     `=./`,        '
-            .   '=.__.=' `='      *
-   +                         +
-        O      *        '       .
-```
+=> log/ 📜 Log

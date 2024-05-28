@@ -1,0 +1,52 @@
+---
+title: Getting the Corona Warn-App (and similar) to run on /e/OS
+author: koyu
+type: post
+pubDate: 2021-05-26T22:41:00+00:00
+url: /2021/05/26/getting-the-corona-warn-app-and-similar-to-run-on-e-os/
+featured_image: /wp-content/uploads/2021/06/cedrik-wesche-qxu1RE1uahU-unsplash.jpg
+categories:
+  - Uncategorized
+tags: ["phones", "covid"]
+---
+Some of you already heard that I use /e/OS as a daily driver now. /e/OS is an operating system for mobile phones (a few of them to be precise) made by the /e/ foundation. Unlike traditional mobile operating systems like Android or iOS the whole thing doesn&#8217;t track you. I think your phone should be your phone and not Google&#8217;s or Apple&#8217;s. Recently after seeing the video by Laura and Aral I immediately noticed that other than iOS my other option towards a privacy-friendly, but low-cost mobile device would be /e/OS.
+
+## So how do I install my COVID-19 tracking app?
+
+Here in Germany we have an app that&#8217;s called the Corona Warn-App, yours may be called differently, but the process is the same for every other app.
+
+To get started you do these steps (assuming you got /e/OS installed):
+
+<ol start="0">
+  <li>
+    Unlock your phone
+  </li>
+  <li>
+    Swipe to the App store and tap the icon
+  </li>
+  <li>
+    Then you tap categories
+  </li>
+  <li>
+    If you are in the categories view you now scroll down and tap System apps
+  </li>
+  <li>
+    Afterwards you hit &#8220;Install&#8221; on the only app that&#8217;s there called &#8220;microG Exposure Notifications&#8221;
+  </li>
+  <li>
+    Then go back and hit the search icon and search for your desired COVID-19 tracking app made by your government and hit install there
+  </li>
+  <li>
+    Go to settings, system, microG and tap &#8220;Exposure Notifications&#8221; and enable it
+  </li>
+  <li>
+    Launch your COVID-19 tracking app and set it up.
+  </li>
+</ol>
+
+You are now helping you and others detecting COVID-19 in your area! 🎉
+
+## References
+
+  * <a href="https://vimeo.com/342972799" target="_blank" rel="noreferrer noopener">The video by Laura Kalbag and Aral Balkan about &#8220;Small Tech&#8221;</a>
+  * <a href="https://e.foundation" target="_blank" rel="noreferrer noopener">/e/foundation website</a>
