@@ -10,4 +10,5 @@ It's time to reclaim the internet!
 => contact.gmi 📧 Contact me
 => files/ 💾 Files
 => notes/ 📒 Notes
+=> portfolio.gmi 📁 Portfolio
 => log/ 📜 Log
