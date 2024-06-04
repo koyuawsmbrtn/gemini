@@ -5,7 +5,6 @@
 => https://litterbox.koyu.space Litterbox – A cute fediverse client that is simple yet powerful
 => https://github.com/koyuawsmbrtn/bbz-cloud BBZ Cloud – An All-In-One electron app for school-related services
 => https://jasonb.de Jason Lee Bärwald – Linktree-like website
-=> https://spatialwebdesign.com Spatial Webdesign – Webdesign agency
 
 ## Past
 
