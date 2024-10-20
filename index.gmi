@@ -6,15 +6,3 @@
 => contact.gmi 📧 Contact me
 => files/ 💾 Files
 => notes/ 📒 Notes
-=> portfolio.gmi 📁 Portfolio
-=> log/ 📜 Log
-
-```
-          .:'
-      __ :'__
-   .'`__`-'__``.
-  :__________.-'
-  :_________:
-   :_________`-;
-    `.__.-.__.'
-```
