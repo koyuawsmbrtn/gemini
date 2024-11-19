@@ -1,8 +1,23 @@
 # koyu's little space
 
-> This is my little space on the internet. I'm a software engineer and I like to write about my projects and other stuff. I'm also a big fan of the Gemini protocol, so you can access this site via the Gemini protocol at gemini://koyu.space/koyu/.
+> This is my little space on the internet. I'm a software engineer and I like to write about my projects and other stuff. I'm also a big fan of the Gemini protocol, operating systems and retro tech.
 
 => about.gmi 👩 About me
 => contact.gmi 📧 Contact me
 => files/ 💾 Files
 => notes/ 📒 Notes
+
+```
+        ~+
+
+                 *       +
+           '                  |
+       ()    .-.,="``"=.    - o -
+             '=/_       \     |
+          *   |  '=._    |
+               \     `=./`,        '
+            .   '=.__.=' `='      *
+   +                         +
+        O      *        '       .
+
+```
