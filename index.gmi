@@ -6,6 +6,7 @@
 => contact.gmi 📧 Contact me
 => files/ 💾 Files
 => notes/ 📒 Notes
+=> https://koyu.space 🕸️ Me on the WWW
 
 ```
         ~+
