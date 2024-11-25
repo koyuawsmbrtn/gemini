@@ -8,8 +8,8 @@
 => gemini://c3d2.de/ Chaos Computer Club Dresden
 => gemini://zaibatsu.circumlunar.space/~solderpunk/ Solderpunk
 => gemini://skyjake.fi skyjake
-=> gemini://tilde.pink/~kubikpixel/ kubikpixel
 => gemini://astrobotany.mozz.us astrobotany
+=> gemini://gem.sdf.org/bronzie94/index.gmi Bronzie Beat
 => https://pukima.site Pukima
 => https://tilde.club/~snowdusk/ Snowdusk
 => https://archlinux.org/mirrorlist/ Arch Linux Mirrorlist generator
